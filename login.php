@@ -47,7 +47,7 @@
 <div class="navbar-area fixed-top">
 
 <div class="mobile-nav">
-<a href="index.html" class="logo">
+<a href="index.php" class="logo">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 </div>
@@ -55,7 +55,7 @@
 <div class="main-nav">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -64,33 +64,33 @@
 <a href="#" class="nav-link dropdown-toggle">Home <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="index.html" class="nav-link">Home Page 1</a>
+<a href="index.php" class="nav-link">Home Page 1</a>
 </li>
 <li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Page 2</a>
+<a href="index-2.php" class="nav-link">Home Page 2</a>
 </li>
 <li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Page 3</a>
+<a href="index-3.php" class="nav-link">Home Page 3</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="about.html" class="nav-link">About</a>
+<a href="about.php" class="nav-link">About</a>
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">Jobs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="job-list.html" class="nav-link">Job List</a>
+<a href="job-list.php" class="nav-link">Job List</a>
 </li>
 <li class="nav-item">
-<a href="favourite-job.html" class="nav-link">Favourite Jobs</a>
+<a href="favourite-job.php" class="nav-link">Favourite Jobs</a>
 </li>
 <li class="nav-item">
-<a href="job-details.html" class="nav-link">Job Details</a>
+<a href="job-details.php" class="nav-link">Job Details</a>
 </li>
 <li class="nav-item">
-<a href="post-a-job.html" class="nav-link">Post A Job</a>
+<a href="post-a-job.php" class="nav-link">Post A Job</a>
 </li>
 </ul>
 </li>
@@ -98,22 +98,22 @@
 <a href="#" class="nav-link dropdown-toggle">Candidates <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="candidate-list.html" class="nav-link">Candidate List</a>
+<a href="candidate-list.php" class="nav-link">Candidate List</a>
 </li>
 <li class="nav-item">
-<a href="candidate-details.html" class="nav-link">Candidate Details</a>
+<a href="candidate-details.php" class="nav-link">Candidate Details</a>
 </li>
 <li class="nav-item">
-<a href="single-resume.html" class="nav-link">Single Resume</a>
+<a href="single-resume.php" class="nav-link">Single Resume</a>
 </li>
 <li class="nav-item">
-<a href="submit-resume.html" class="nav-link">Submit Resume</a>
+<a href="submit-resume.php" class="nav-link">Submit Resume</a>
 </li>
 <li class="nav-item">
-<a href="pricing.html" class="nav-link">Pricing</a>
+<a href="pricing.php" class="nav-link">Pricing</a>
 </li>
 <li class="nav-item">
-<a href="dashboard.html" class="nav-link">Candidate dashboard</a>
+<a href="dashboard.php" class="nav-link">Candidate dashboard</a>
 </li>
 </ul>
 </li>
@@ -121,34 +121,34 @@
 <a href="#" class="nav-link dropdown-toggle active">Pages <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="company-list.html" class="nav-link">Company List</a>
+<a href="company-list.php" class="nav-link">Company List</a>
 </li>
 <li class="nav-item">
-<a href="company-details.html" class="nav-link">Company Details</a>
+<a href="company-details.php" class="nav-link">Company Details</a>
 </li>
 <li class="nav-item">
-<a href="login.html" class="nav-link">Login Page</a>
+<a href="login.php" class="nav-link active">Login Page</a>
 </li>
 <li class="nav-item">
-<a href="create-account.html" class="nav-link active">Create Account Page</a>
+<a href="create-account.php" class="nav-link">Create Account Page</a>
 </li>
 <li class="nav-item">
-<a href="profile.html" class="nav-link">Profile</a>
+<a href="profile.php" class="nav-link">Profile</a>
 </li>
 <li class="nav-item">
- <a href="single-profile.html" class="nav-link">Single Profile</a>
+ <a href="single-profile.php" class="nav-link">Single Profile</a>
 </li>
 <li class="nav-item">
-<a href="404.html" class="nav-link">404</a>
+<a href="404.php" class="nav-link">404</a>
 </li>
 <li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
+<a href="faq.php" class="nav-link">FAQ</a>
 </li>
 <li class="nav-item">
-<a href="terms-and-conditions.html" class="nav-link">Terms and Conditions</a>
+<a href="terms-and-conditions.php" class="nav-link">Terms and Conditions</a>
 </li>
 <li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
 </li>
 </ul>
 </li>
@@ -156,23 +156,23 @@
 <a href="#" class="nav-link dropdown-toggle">Blogs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog.html" class="nav-link">Blog</a>
+<a href="blog.php" class="nav-link">Blog</a>
 </li>
 <li class="nav-item">
-<a href="blog-details.html" class="nav-link">Blog Details</a>
+<a href="blog-details.php" class="nav-link">Blog Details</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="contact.html" class="nav-link">Contact</a>
+<a href="contact.php" class="nav-link">Contact</a>
 </li>
 </ul>
 <div class="common-btn">
-<a class="login-btn" href="login.html">
+<a class="login-btn" href="login.php">
 <i class="icofont-plus-square"></i>
 Login
 </a>
-<a class="sign-up-btn" href="create-account.html">
+<a class="sign-up-btn" href="create-account.php">
 <i class="icofont-user-alt-4"></i>
 Sign Up
 </a>
@@ -189,15 +189,15 @@ Sign Up
 <div class="d-table-cell">
 <div class="container">
 <div class="page-title-text">
-<h2>Create Account</h2>
+<h2>Log In</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>
 <i class="icofont-simple-right"></i>
 </li>
-<li>Create Account</li>
+<li>Log In</li>
 </ul>
 </div>
 </div>
@@ -206,219 +206,70 @@ Sign Up
 </div>
 
 
-<div class="create-account-area pt-100 pb-100">
+<div class="login-area pt-100">
 <div class="container">
-<div class="create-photo">
-<div class="already-create">
-<span>Already create an account?</span>
-<a href="#">Sign In</a>
-</div>
-<form>
-<div class="row align-items-center">
-<div class="col-lg-4">
-<div class="create-photo-item">
-<div class="create-photo-left">
-<div class="d-table">
-<div class="d-table-cell">
-<div class="form-group">
-<i class="icofont-photobucket"></i>
-<input type="file" class="form-control-file">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-8">
-<div class="create-photo-item">
-<div class="create-photo-right">
-<div class="form-group">
-<input type="text" class="form-control" placeholder="Your Name Here">
-</div>
-<div class="form-group">
-<input type="text" class="form-control" placeholder="Profession">
-</div>
-<div class="text-right">
-<button type="submit" class="btn create-photo-btn">Done</button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</form>
-</div>
-<div class="create-information">
-<form>
-<h3>Basic Information</h3>
-<div class="create-information-btn">
-<a href="#">Upload Cover Photo</a>
-<a href="#">Upload Your CV</a>
-</div>
+<h2>Login Your Account</h2>
+<div class="login-wrap">
 <div class="row">
-<div class="col-lg-6">
-<div class="form-group">
-<label>Your Name</label>
-<input type="text" class="form-control">
+<div class="col-sm-6 col-lg-6">
+<div class="jobseeker-item">
+<div class="jobseeker-icon">
+<i class="flaticon-job-search"></i>
+ </div>
+<div class="jobseeker-inner">
+<span>Candidate</span>
+<h3>Login as a Candidate</h3>
+</div>
+<a href="login.php">Get Started
+<i class="icofont-arrow-right"></i>
+</a>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Your Email</label>
-<input type="email" class="form-control">
+<div class="col-sm-6 col-lg-6">
+<div class="jobseeker-item">
+<div class="jobseeker-icon">
+<i class="flaticon-recruitment"></i>
+</div>
+<div class="jobseeker-inner">
+<span>Employer</span>
+<h3>Login as a Employer</h3>
+</div>
+<a href="login.php">Get Started
+<i class="icofont-arrow-right"></i>
+</a>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Date of Birth</label>
-<input type="date" class="form-control">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Your Phone</label>
-<input type="text" class="form-control">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Job Title</label>
-<input type="text" class="form-control">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Address:</label>
- <input type="text" class="form-control">
-</div>
-</div>
-<div class="col-lg-12">
-<div class="form-group">
-<div class="gender-area">
-<span>Gender</span>
-<input type="radio" name="gender" id="male" value="male" checked>
-<label for="male">Male</label>
-<input type="radio" name="gender" id="female" value="female">
-<label for="female">Female</label>
-</div>
-</div>
-</div>
-<div class="col-lg-12">
-<div class="form-group">
-<label>Description</label>
-<textarea id="your_message" class="form-control" rows="8"></textarea>
-</div>
-</div>
-</div>
-</form>
-</div>
-<div class="create-education">
-<div class="create-education-wrap">
-<div class="create-education-left">
-<h3>Education</h3>
-</div>
-<div class="create-education-right">
-<a href="#">Add Education</a>
 </div>
 </div>
 <form>
-<div class="row">
-<div class="col-lg-6">
 <div class="form-group">
-<label>Title</label>
-<input type="text" class="form-control">
+<input type="text" class="form-control" placeholder="Username, Phone Number or Email">
 </div>
-</div>
-<div class="col-lg-6">
 <div class="form-group">
-<label>Degree</label>
-<input type="text" class="form-control">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Institute</label>
-<input type="text" class="form-control">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Year</label>
-<input type="text" class="form-control">
-</div>
-</div>
+<input type="password" class="form-control" placeholder="Password">
 </div>
 </form>
-</div>
-<div class="create-skills">
-<div class="create-skills-wrap">
-<div class="create-skills-left">
-<h3>Skill</h3>
-</div>
-<div class="create-skills-right">
-<a href="#">Edit</a>
-<a href="#">Add Skill</a>
-</div>
-</div>
-<form>
-<div class="row">
-<div class="col-lg-6">
-<div class="form-group">
-<label>Title</label>
-<input type="text" class="form-control">
+<div class="login-sign-in">
+<a href="#">Forgot Password?</a>
+<ul>
+<li>Don’t Have Account ?</li>
+<li>
+<a href="create-account.php">Sign Up Here</a>
+</li>
+</ul>
+<div class="text-center">
+<button type="submit" class="btn login-btn">Sign In</button>
 </div>
 </div>
-<div class="col-lg-6">
- <div class="skill">
-<p>Percentage</p>
-<div class="skill-bar skill1 wow slideInLeft animated">
-<span class="skill-count1">70%</span>
-</div>
-</div>
-</div>
-</div>
-</form>
-</div>
-<div class="create-skills">
-<div class="create-skills-wrap">
-<div class="create-skills-left">
-<h3>Social Links</h3>
-</div>
-<div class="create-skills-right">
-<a href="#">Edit</a>
-<a href="#">Add New</a>
-</div>
-</div>
-<form>
-<div class="row">
-<div class="col-lg-6">
-<div class="form-group">
-<label>Facebook</label>
-<input type="text" class="form-control">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Instagram</label>
-<input type="text" class="form-control">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Linedin</label>
-<input type="text" class="form-control">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Dribbble</label>
-<input type="text" class="form-control">
-</div>
-</div>
-</div>
-</form>
-</div>
-<div class="text-left">
-<button type="submit" class="btn create-ac-btn">Save</button>
+<div class="login-social">
+<a href="https://www.facebook.com/" target="_blank">
+<i class="icofont-facebook"></i>
+Login With Facebook
+</a>
+<a class="login-google" href="https://mail.google.com/" target="_blank">
+<i class="icofont-google-plus"></i>
+Login With Google
+</a>
 </div>
 </div>
 </div>
@@ -445,7 +296,7 @@ Sign Up
 Subscribe
 </button>
 <div id="validator-newsletter" class="form-result"></div>
-</form>
+ </form>
 </div>
 </div>
 
@@ -526,26 +377,26 @@ Networking
 <div class="footer-category">
 <h3>Quick Links</h3>
 <ul>
- <li>
-<a href="index.html">
+<li>
+<a href="index.php">
 <i class="icofont-simple-right"></i>
 Home
 </a>
 </li>
 <li>
-<a href="about.html">
+<a href="about.php">
 <i class="icofont-simple-right"></i>
 About Us
 </a>
 </li>
 <li>
-<a href="blog.html">
+<a href="blog.php">
 <i class="icofont-simple-right"></i>
 Blogs
 </a>
 </li>
 <li>
-<a href="company-list.html">
+<a href="company-list.php">
 <i class="icofont-simple-right"></i>
 Companies
 </a>
@@ -577,8 +428,8 @@ Testimonials
 </li>
 <li>
 <i class="icofont-ui-email"></i>
-<a href="../../cdn-cgi/l/email-protection.html#7b131e1717143b1c1a19171e55181416">
-<span class="__cf_email__" data-cfemail="0f676a6363604f686e6d636a216c6062">[email&#160;protected]</span>
+<a href="../../cdn-cgi/l/email-protection.php#3b535e5757547b5c5a59575e15585456">
+<span class="__cf_email__" data-cfemail="b2dad7dededdf2d5d3d0ded79cd1dddf">[email&#160;protected]</span>
 </a>
 </li>
 </ul>
@@ -597,13 +448,13 @@ Testimonials
 <div class="copyright-item copyright-right">
 <ul>
 <li>
-<a href="terms-and-conditions.html" target="_blank">Terms & Conditions</a>
+<a href="terms-and-conditions.php" target="_blank">Terms & Conditions</a>
 </li>
-<li>
+ <li>
 <span>-</span>
 </li>
 <li>
- <a href="privacy-policy.html" target="_blank">Privacy Policy</a>
+<a href="privacy-policy.php" target="_blank">Privacy Policy</a>
 </li>
 </ul>
 </div>

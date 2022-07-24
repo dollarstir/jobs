@@ -47,7 +47,7 @@
 <div class="navbar-area fixed-top">
 
 <div class="mobile-nav">
-<a href="index.html" class="logo">
+<a href="index.php" class="logo">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 </div>
@@ -55,7 +55,7 @@
 <div class="main-nav">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -64,91 +64,91 @@
 <a href="#" class="nav-link dropdown-toggle">Home <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="index.html" class="nav-link">Home Page 1</a>
+<a href="index.php" class="nav-link">Home Page 1</a>
 </li>
 <li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Page 2</a>
+<a href="index-2.php" class="nav-link">Home Page 2</a>
 </li>
 <li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Page 3</a>
+<a href="index-3.php" class="nav-link">Home Page 3</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="about.html" class="nav-link">About</a>
+<a href="about.php" class="nav-link">About</a>
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">Jobs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="job-list.html" class="nav-link">Job List</a>
+<a href="job-list.php" class="nav-link">Job List</a>
 </li>
 <li class="nav-item">
-<a href="favourite-job.html" class="nav-link">Favourite Jobs</a>
+<a href="favourite-job.php" class="nav-link">Favourite Jobs</a>
 </li>
 <li class="nav-item">
-<a href="job-details.html" class="nav-link">Job Details</a>
+<a href="job-details.php" class="nav-link">Job Details</a>
 </li>
 <li class="nav-item">
-<a href="post-a-job.html" class="nav-link">Post A Job</a>
-</li>
-</ul>
-</li>
-<li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle active">Candidates <i class="icofont-simple-down"></i></a>
-<ul class="dropdown-menu">
-<li class="nav-item">
-<a href="candidate-list.html" class="nav-link">Candidate List</a>
-</li>
-<li class="nav-item">
-<a href="candidate-details.html" class="nav-link">Candidate Details</a>
-</li>
-<li class="nav-item">
-<a href="single-resume.html" class="nav-link">Single Resume</a>
-</li>
-<li class="nav-item">
-<a href="submit-resume.html" class="nav-link">Submit Resume</a>
-</li>
-<li class="nav-item">
-<a href="pricing.html" class="nav-link">Pricing</a>
-</li>
-<li class="nav-item">
-<a href="dashboard.html" class="nav-link active">Candidate dashboard</a>
+<a href="post-a-job.php" class="nav-link">Post A Job</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">Pages <i class="icofont-simple-down"></i></a>
+<a href="#" class="nav-link dropdown-toggle">Candidates <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="company-list.html" class="nav-link">Company List</a>
+<a href="candidate-list.php" class="nav-link">Candidate List</a>
 </li>
 <li class="nav-item">
-<a href="company-details.html" class="nav-link">Company Details</a>
+<a href="candidate-details.php" class="nav-link">Candidate Details</a>
 </li>
 <li class="nav-item">
-<a href="login.html" class="nav-link">Login Page</a>
+<a href="single-resume.php" class="nav-link">Single Resume</a>
 </li>
 <li class="nav-item">
-<a href="create-account.html" class="nav-link">Create Account Page</a>
+<a href="submit-resume.php" class="nav-link">Submit Resume</a>
 </li>
 <li class="nav-item">
-<a href="profile.html" class="nav-link">Profile</a>
+<a href="pricing.php" class="nav-link">Pricing</a>
 </li>
 <li class="nav-item">
- <a href="single-profile.html" class="nav-link">Single Profile</a>
+<a href="dashboard.php" class="nav-link">Candidate dashboard</a>
+</li>
+</ul>
 </li>
 <li class="nav-item">
-<a href="404.html" class="nav-link">404</a>
+<a href="#" class="nav-link dropdown-toggle active">Pages <i class="icofont-simple-down"></i></a>
+<ul class="dropdown-menu">
+<li class="nav-item">
+<a href="company-list.php" class="nav-link">Company List</a>
 </li>
 <li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
+<a href="company-details.php" class="nav-link">Company Details</a>
 </li>
 <li class="nav-item">
-<a href="terms-and-conditions.html" class="nav-link">Terms and Conditions</a>
+<a href="login.php" class="nav-link">Login Page</a>
 </li>
 <li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+<a href="create-account.php" class="nav-link">Create Account Page</a>
+</li>
+<li class="nav-item">
+<a href="profile.php" class="nav-link active">Profile</a>
+</li>
+<li class="nav-item">
+ <a href="single-profile.php" class="nav-link">Single Profile</a>
+</li>
+<li class="nav-item">
+<a href="404.php" class="nav-link">404</a>
+</li>
+<li class="nav-item">
+<a href="faq.php" class="nav-link">FAQ</a>
+</li>
+<li class="nav-item">
+<a href="terms-and-conditions.php" class="nav-link">Terms and Conditions</a>
+</li>
+<li class="nav-item">
+<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
 </li>
 </ul>
 </li>
@@ -156,23 +156,23 @@
 <a href="#" class="nav-link dropdown-toggle">Blogs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog.html" class="nav-link">Blog</a>
+<a href="blog.php" class="nav-link">Blog</a>
 </li>
 <li class="nav-item">
-<a href="blog-details.html" class="nav-link">Blog Details</a>
+<a href="blog-details.php" class="nav-link">Blog Details</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="contact.html" class="nav-link">Contact</a>
+<a href="contact.php" class="nav-link">Contact</a>
 </li>
 </ul>
 <div class="common-btn">
-<a class="login-btn" href="login.html">
+<a class="login-btn" href="login.php">
 <i class="icofont-plus-square"></i>
 Login
 </a>
-<a class="sign-up-btn" href="create-account.html">
+<a class="sign-up-btn" href="create-account.php">
 <i class="icofont-user-alt-4"></i>
 Sign Up
 </a>
@@ -189,15 +189,15 @@ Sign Up
 <div class="d-table-cell">
 <div class="container">
 <div class="page-title-text">
-<h2>Candidate Dashboard</h2>
+<h2>Profile</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>
 <i class="icofont-simple-right"></i>
 </li>
-<li>Candidate Dashboard</li>
+<li>Profile</li>
 </ul>
 </div>
 </div>
@@ -208,35 +208,6 @@ Sign Up
 
 <div class="dashboard-area pt-100">
 <div class="container">
-<div class="row align-items-center">
-<div class="col-lg-4">
-<div class="dashboard-img">
-<img src="https://templates.hibootstrap.com/gable/default/assets/img/dashboard/1.jpg" alt="Dashboard">
-<h3>Aikin Ward</h3>
-<p>UX/UI Designer</p>
-</div> 
-</div>
-<div class="col-lg-8">
-<div class="dashboard-nav">
-<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-<li class="nav-item">
-<a class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">My Profile</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Change Password</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Saved Jobs</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" id="pills-logout-tab" data-bs-toggle="pill" href="#pills-logout" role="tab" aria-controls="pills-logout" aria-selected="false">Logout</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="tab-content" id="pills-tabContent">
-<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 <div class="create-information">
 <form>
 <h3>Basic Information</h3>
@@ -244,7 +215,7 @@ Sign Up
 <a href="#">Upload Cover Photo</a>
 <a href="#">Upload Your CV</a>
 </div>
-<div class="row">
+<div class="row"> 
 <div class="col-lg-6">
 <div class="form-group">
 <label>Your Name</label>
@@ -273,7 +244,7 @@ Sign Up
 <div class="form-group">
 <label>Job Title</label>
 <input type="text" class="form-control" placeholder="UX/UI Designer">
- </div>
+</div>
 </div>
 <div class="col-lg-6">
 <div class="form-group">
@@ -316,7 +287,7 @@ Sign Up
 <div class="col-lg-6">
 <div class="form-group">
 <label>Title</label>
-<input type="text" class="form-control" placeholder="Under Graduate">
+ <input type="text" class="form-control" placeholder="Under Graduate">
 </div>
 </div>
 <div class="col-lg-6">
@@ -405,7 +376,7 @@ Sign Up
 <div class="form-group">
 <label>Instagram</label>
 <input type="text" class="form-control" placeholder="https://www.instagram,com">
- </div>
+</div>
 </div>
 <div class="col-lg-6">
 <div class="form-group">
@@ -415,7 +386,7 @@ Sign Up
 </div>
 <div class="col-lg-6">
 <div class="form-group">
-<label>Dribbble</label>
+<label>Dribble</label>
 <input type="text" class="form-control" placeholder="https://www.dribble,com">
 </div>
 </div>
@@ -424,234 +395,6 @@ Sign Up
 </div>
 <div class="text-left">
 <button type="submit" class="btn create-ac-btn">Save</button>
-</div>
-</div>
-<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-<div class="change-password-area">
-<h2>Change Your Password</h2>
-<form>
-<div class="form-group">
-<label>Current Password:</label>
-<input type="password" class="form-control">
-</div>
-<div class="form-group">
-<label>New Password:</label>
-<input type="password" class="form-control">
-</div>
-<div class="form-group">
-<label>Confirm Password:</label>
-<input type="password" class="form-control">
-</div>
-<div class="text-left">
-<button type="submit" class="btn change-pass-btn">Save</button>
-</div>
-</form>
-</div>
-</div>
-<div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-<div class="dashboard-saved-job">
-<div class="row">
-<div class="col-lg-6">
-<div class="job-item wow fadeInUp" data-wow-delay=".3s">
-<img src="assets/img/home-1/jobs/1.png" alt="Job">
-<div class="job-inner align-items-center">
-<div class="job-inner-left">
-<h3>
-<a href="job-details.html">UI/UX Designer</a>
-</h3>
-<a class="company" href="company-details.html">Winbrans.com</a>
-<ul>
-<li>
-<i class="icofont-money-bag"></i>
-$20k - $25k
-</li>
-<li>
-<i class="icofont-location-pin"></i>
-Location 210-27 Quadra, Market Street, Victoria Canada
- </li>
-</ul>
-</div>
-<div class="job-inner-right">
-<ul>
-<li>
-<a href="create-account.html">Apply</a>
-</li>
-<li>
-<span>Full Time</span>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="job-item wow fadeInUp" data-wow-delay=".4s">
-<img src="assets/img/home-1/jobs/2.png" alt="Job">
-<div class="job-inner align-items-center">
-<div class="job-inner-left">
-<h3>
-<a href="job-details.html">Android Developer</a>
-</h3>
-<a class="company" href="company-details.html">Infiniza.com</a>
-<ul>
-<li>
-<i class="icofont-money-bag"></i>
-$20k - $25k
-</li>
-<li>
-<i class="icofont-location-pin"></i>
-Location 210-27 Quadra, Market Street, Victoria Canada
-</li>
-</ul>
-</div>
-<div class="job-inner-right">
-<ul>
-<li>
-<a href="create-account.html">Apply</a>
-</li>
-<li>
-<span>Part Time</span>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="job-item wow fadeInUp" data-wow-delay=".3s">
-<img src="assets/img/home-1/jobs/3.png" alt="Job">
-<div class="job-inner align-items-center">
-<div class="job-inner-left">
-<h3>
-<a href="job-details.html">Senior Manager</a>
-</h3>
-<a class="company" href="company-details.html">Glovibo.com</a>
-<ul>
-<li>
-<i class="icofont-money-bag"></i>
-$20k - $25k
-</li>
-<li>
-<i class="icofont-location-pin"></i>
-Location 210-27 Quadra, Market Street, Victoria Canada
-</li>
-</ul>
-</div>
-<div class="job-inner-right">
-<ul>
-<li>
-<a href="create-account.html">Apply</a>
-</li>
-<li>
-<span>Intern</span>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="job-item wow fadeInUp" data-wow-delay=".4s">
-<img src="assets/img/home-1/jobs/4.png" alt="Job">
-<div class="job-inner align-items-center">
-<div class="job-inner-left">
-<h3>
-<a href="job-details.html">Product Designer</a>
-</h3>
-<a class="company" href="company-details.html">Bizotic.com</a>
-<ul>
-<li>
-<i class="icofont-money-bag"></i>
-$20k - $25k
-</li>
-<li>
-<i class="icofont-location-pin"></i>
-Location 210-27 Quadra, Market Street, Victoria Canada
-</li>
-</ul>
-</div>
-<div class="job-inner-right">
-<ul>
-<li>
-<a href="create-account.html">Apply</a>
-</li>
-<li>
-<span>Part Time</span>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="tab-pane fade" id="pills-logout" role="tabpanel" aria-labelledby="pills-logout-tab">
-<div class="login-area dashboard-logout-area">
-<div class="login-wrap">
-<div class="row">
-<div class="col-sm-6 col-lg-6">
- <div class="jobseeker-item">
-<div class="jobseeker-icon">
-<i class="flaticon-job-search"></i>
-</div>
-<div class="jobseeker-inner">
-<span>Candidate</span>
-<h3>Login as a Candidate</h3>
-</div>
-<a href="login.html">Get Started
-<i class="icofont-arrow-right"></i>
-</a>
-</div>
-</div>
-<div class="col-sm-6 col-lg-6">
-<div class="jobseeker-item">
-<div class="jobseeker-icon">
-<i class="flaticon-recruitment"></i>
-</div>
-<div class="jobseeker-inner">
-<span>Employer</span>
-<h3>Login as a Employer</h3>
-</div>
-<a href="login.html">Get Started
-<i class="icofont-arrow-right"></i>
-</a>
-</div>
-</div>
-</div>
-</div>
-<form>
-<div class="form-group">
-<input type="text" class="form-control" placeholder="Username, Phone Number or Email">
-</div>
-<div class="form-group">
-<input type="password" class="form-control" placeholder="Password">
-</div>
-</form>
-<div class="login-sign-in">
-<a href="#">Forgot Password?</a>
-<ul>
-<li>Don’t Have Account ?</li>
-<li>
-<a href="create-account.html">Sign Up Here</a>
-</li>
-</ul>
-<div class="text-center">
-<button type="submit" class="btn login-btn">Sign In</button>
-</div>
-</div>
-<div class="login-social">
-<a href="https://www.facebook.com/" target="_blank">
-<i class="icofont-facebook"></i>
-Login With Facebook
-</a>
-<a class="login-google" href="https://mail.google.com/" target="_blank">
-<i class="icofont-google-plus"></i>
-Login With Google
-</a>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
@@ -760,25 +503,25 @@ Networking
 <h3>Quick Links</h3>
 <ul>
 <li>
-<a href="index.html">
+<a href="index.php">
 <i class="icofont-simple-right"></i>
 Home
 </a>
 </li>
 <li>
-<a href="about.html">
+<a href="about.php">
 <i class="icofont-simple-right"></i>
-About Us
+ About Us
 </a>
 </li>
 <li>
-<a href="blog.html">
+<a href="blog.php">
 <i class="icofont-simple-right"></i>
 Blogs
 </a>
 </li>
 <li>
-<a href="company-list.html">
+<a href="company-list.php">
 <i class="icofont-simple-right"></i>
 Companies
 </a>
@@ -810,10 +553,10 @@ Testimonials
 </li>
 <li>
 <i class="icofont-ui-email"></i>
-<a href="../../cdn-cgi/l/email-protection.html#95fdf0f9f9fad5f2f4f7f9f0bbf6faf8">
-<span class="__cf_email__" data-cfemail="81e9e4ededeec1e6e0e3ede4afe2eeec">[email&#160;protected]</span>
+<a href="../../cdn-cgi/l/email-protection.php#a9c1ccc5c5c6e9cec8cbc5cc87cac6c4">
+<span class="__cf_email__" data-cfemail="aec6cbc2c2c1eec9cfccc2cb80cdc1c3">[email&#160;protected]</span>
 </a>
- </li>
+</li>
 </ul>
 </div>
 </div>
@@ -830,13 +573,13 @@ Testimonials
 <div class="copyright-item copyright-right">
 <ul>
 <li>
-<a href="terms-and-conditions.html" target="_blank">Terms & Conditions</a>
+<a href="terms-and-conditions.php" target="_blank">Terms & Conditions</a>
 </li>
 <li>
 <span>-</span>
 </li>
 <li>
-<a href="privacy-policy.html" target="_blank">Privacy Policy</a>
+<a href="privacy-policy.php" target="_blank">Privacy Policy</a>
 </li>
 </ul>
 </div>
@@ -849,7 +592,7 @@ Testimonials
 
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bootstrap.bundle.min.js"></script>
-
+ 
 <script src="assets/js/jquery.meanmenu.js"></script>
 
 <script src="assets/js/jquery.mixitup.min.js"></script>

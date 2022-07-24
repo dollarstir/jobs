@@ -47,7 +47,7 @@
 <div class="navbar-area fixed-top">
 
 <div class="mobile-nav">
-<a href="index.html" class="logo">
+<a href="index.php" class="logo">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 </div>
@@ -55,7 +55,7 @@
 <div class="main-nav">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -64,33 +64,33 @@
 <a href="#" class="nav-link dropdown-toggle">Home <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="index.html" class="nav-link">Home Page 1</a>
+<a href="index.php" class="nav-link">Home Page 1</a>
 </li>
 <li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Page 2</a>
+<a href="index-2.php" class="nav-link">Home Page 2</a>
 </li>
 <li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Page 3</a>
+<a href="index-3.php" class="nav-link">Home Page 3</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="about.html" class="nav-link">About</a>
+<a href="about.php" class="nav-link">About</a>
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle active">Jobs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="job-list.html" class="nav-link">Job List</a>
+<a href="job-list.php" class="nav-link active">Job List</a>
 </li>
 <li class="nav-item">
-<a href="favourite-job.html" class="nav-link active">Favourite Jobs</a>
+<a href="favourite-job.php" class="nav-link">Favourite Jobs</a>
 </li>
 <li class="nav-item">
-<a href="job-details.html" class="nav-link">Job Details</a>
+<a href="job-details.php" class="nav-link">Job Details</a>
 </li>
 <li class="nav-item">
-<a href="post-a-job.html" class="nav-link">Post A Job</a>
+<a href="post-a-job.php" class="nav-link">Post A Job</a>
 </li>
 </ul>
 </li>
@@ -98,22 +98,22 @@
 <a href="#" class="nav-link dropdown-toggle">Candidates <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="candidate-list.html" class="nav-link">Candidate List</a>
+<a href="candidate-list.php" class="nav-link">Candidate List</a>
 </li>
 <li class="nav-item">
-<a href="candidate-details.html" class="nav-link">Candidate Details</a>
+<a href="candidate-details.php" class="nav-link">Candidate Details</a>
 </li>
 <li class="nav-item">
-<a href="single-resume.html" class="nav-link">Single Resume</a>
+<a href="single-resume.php" class="nav-link">Single Resume</a>
 </li>
 <li class="nav-item">
-<a href="submit-resume.html" class="nav-link">Submit Resume</a>
+<a href="submit-resume.php" class="nav-link">Submit Resume</a>
 </li>
 <li class="nav-item">
-<a href="pricing.html" class="nav-link">Pricing</a>
+<a href="pricing.php" class="nav-link">Pricing</a>
 </li>
 <li class="nav-item">
-<a href="dashboard.html" class="nav-link">Candidate dashboard</a>
+<a href="dashboard.php" class="nav-link">Candidate dashboard</a>
 </li>
 </ul>
 </li>
@@ -121,34 +121,34 @@
 <a href="#" class="nav-link dropdown-toggle">Pages <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="company-list.html" class="nav-link">Company List</a>
+<a href="company-list.php" class="nav-link">Company List</a>
 </li>
 <li class="nav-item">
-<a href="company-details.html" class="nav-link">Company Details</a>
+<a href="company-details.php" class="nav-link">Company Details</a>
 </li>
 <li class="nav-item">
-<a href="login.html" class="nav-link">Login Page</a>
+<a href="login.php" class="nav-link">Login Page</a>
 </li>
 <li class="nav-item">
-<a href="create-account.html" class="nav-link">Create Account Page</a>
+<a href="create-account.php" class="nav-link">Create Account Page</a>
 </li>
 <li class="nav-item">
-<a href="profile.html" class="nav-link">Profile</a>
+<a href="profile.php" class="nav-link">Profile</a>
 </li>
 <li class="nav-item">
- <a href="single-profile.html" class="nav-link">Single Profile</a>
+ <a href="single-profile.php" class="nav-link">Single Profile</a>
 </li>
 <li class="nav-item">
-<a href="404.html" class="nav-link">404</a>
+<a href="404.php" class="nav-link">404</a>
 </li>
 <li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
+<a href="faq.php" class="nav-link">FAQ</a>
 </li>
 <li class="nav-item">
-<a href="terms-and-conditions.html" class="nav-link">Terms and Conditions</a>
+<a href="terms-and-conditions.php" class="nav-link">Terms and Conditions</a>
 </li>
 <li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
 </li>
 </ul>
 </li>
@@ -156,23 +156,23 @@
 <a href="#" class="nav-link dropdown-toggle">Blogs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog.html" class="nav-link">Blog</a>
+<a href="blog.php" class="nav-link">Blog</a>
 </li>
 <li class="nav-item">
-<a href="blog-details.html" class="nav-link">Blog Details</a>
+<a href="blog-details.php" class="nav-link">Blog Details</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="contact.html" class="nav-link">Contact</a>
+<a href="contact.php" class="nav-link">Contact</a>
 </li>
 </ul>
 <div class="common-btn">
-<a class="login-btn" href="login.html">
+<a class="login-btn" href="login.php">
 <i class="icofont-plus-square"></i>
 Login
 </a>
-<a class="sign-up-btn" href="create-account.html">
+<a class="sign-up-btn" href="create-account.php">
 <i class="icofont-user-alt-4"></i>
 Sign Up
 </a>
@@ -189,15 +189,15 @@ Sign Up
 <div class="d-table-cell">
 <div class="container">
 <div class="page-title-text">
-<h2>Favourite Job</h2>
+<h2>Job List</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>
 <i class="icofont-simple-right"></i>
 </li>
-<li>Favourite Job</li>
+<li>Job List</li>
 </ul>
 </div>
 </div>
@@ -210,14 +210,14 @@ Sign Up
 <div class="container">
 <div class="row">
 <div class="col-lg-6">
-<div class="job-item wow fadeInUp" data-wow-delay=".3s">
+<div class="job-item">
 <img src="assets/img/home-1/jobs/1.png" alt="Job">
 <div class="job-inner align-items-center">
 <div class="job-inner-left">
-<h3>
-<a href="job-details.html">UI/UX Designer</a>
+<h3> 
+<a href="job-details.php">UI/UX Designer</a>
 </h3>
-<a class="company" href="company-details.html">Winbrans.com</a>
+<a class="company" href="company-details.php">Winbrans.com</a>
 <ul>
 <li>
 <i class="icofont-money-bag"></i>
@@ -232,7 +232,7 @@ Location 210-27 Quadra, Market Street, Victoria Canada
 <div class="job-inner-right">
 <ul>
 <li>
-<a href="create-account.html">Apply</a>
+<a href="create-account.php">Apply</a>
 </li>
 <li>
 <span>Full Time</span>
@@ -243,14 +243,12 @@ Location 210-27 Quadra, Market Street, Victoria Canada
 </div>
 </div>
 <div class="col-lg-6">
-<div class="job-item wow fadeInUp" data-wow-delay=".4s">
+<div class="job-item">
 <img src="assets/img/home-1/jobs/2.png" alt="Job">
 <div class="job-inner align-items-center">
 <div class="job-inner-left">
-<h3>
-<a href="job-details.html">Android Developer</a>
-</h3>
-<a class="company" href="company-details.html">Infiniza.com</a>
+<h3><a href="job-details.php">Android Developer</a></h3>
+<a class="company" href="company-details.php">Infiniza.com</a>
 <ul>
 <li>
 <i class="icofont-money-bag"></i>
@@ -265,7 +263,7 @@ Location 210-27 Quadra, Market Street, Victoria Canada
 <div class="job-inner-right">
 <ul>
 <li>
-<a href="create-account.html">Apply</a>
+<a href="create-account.php">Apply</a>
 </li>
 <li>
 <span>Part Time</span>
@@ -276,20 +274,20 @@ Location 210-27 Quadra, Market Street, Victoria Canada
 </div>
 </div>
 <div class="col-lg-6">
-<div class="job-item wow fadeInUp" data-wow-delay=".3s">
+<div class="job-item">
 <img src="assets/img/home-1/jobs/3.png" alt="Job">
 <div class="job-inner align-items-center">
 <div class="job-inner-left">
 <h3>
-<a href="job-details.html">Senior Manager</a>
+<a href="job-details.php">Senior Manager</a>
 </h3>
-<a class="company" href="company-details.html">Glovibo.com</a>
+<a class="company" href="company-details.php">Glovibo.com</a>
 <ul>
-<li> 
+<li>
 <i class="icofont-money-bag"></i>
 $20k - $25k
 </li>
-<li>
+ <li>
 <i class="icofont-location-pin"></i>
 Location 210-27 Quadra, Market Street, Victoria Canada
 </li>
@@ -298,7 +296,7 @@ Location 210-27 Quadra, Market Street, Victoria Canada
 <div class="job-inner-right">
 <ul>
 <li>
-<a href="create-account.html">Apply</a>
+<a href="create-account.php">Apply</a>
 </li>
 <li>
 <span>Intern</span>
@@ -309,14 +307,14 @@ Location 210-27 Quadra, Market Street, Victoria Canada
 </div>
 </div>
 <div class="col-lg-6">
-<div class="job-item wow fadeInUp" data-wow-delay=".4s">
+<div class="job-item ">
 <img src="assets/img/home-1/jobs/4.png" alt="Job">
 <div class="job-inner align-items-center">
 <div class="job-inner-left">
 <h3>
-<a href="job-details.html">Product Designer</a>
+<a href="job-details.php">Product Designer</a>
 </h3>
-<a class="company" href="company-details.html">Bizotic.com</a>
+<a class="company" href="company-details.php">Bizotic.com</a>
 <ul>
 <li>
 <i class="icofont-money-bag"></i>
@@ -331,7 +329,139 @@ Location 210-27 Quadra, Market Street, Victoria Canada
 <div class="job-inner-right">
 <ul>
 <li>
-<a href="create-account.html">Apply</a>
+<a href="create-account.php">Apply</a>
+</li>
+<li>
+<span>Part Time</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="job-item">
+<img src="assets/img/home-1/jobs/5.png" alt="Job">
+<div class="job-inner align-items-center">
+<div class="job-inner-left">
+<h3>
+<a href="job-details.php">Digital Marketer</a>
+</h3>
+<a class="company" href="company-details.php">Hotelzo.com</a>
+<ul>
+<li>
+<i class="icofont-money-bag"></i>
+$20k - $25k
+</li>
+<li>
+<i class="icofont-location-pin"></i>
+Location 210-27 Quadra, Market Street, Victoria Canada
+</li>
+</ul>
+</div>
+<div class="job-inner-right">
+ <ul>
+<li>
+<a href="create-account.php">Apply</a>
+</li>
+<li>
+<span>Intern</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="job-item">
+<img src="assets/img/home-1/jobs/6.png" alt="Job">
+<div class="job-inner align-items-center">
+<div class="job-inner-left">
+<h3>
+<a href="job-details.php">Sales Manager</a>
+</h3>
+<a class="company" href="company-details.php">Gozuto.com</a>
+<ul>
+<li>
+<i class="icofont-money-bag"></i>
+$20k - $25k
+</li>
+<li>
+<i class="icofont-location-pin"></i>
+Location 210-27 Quadra, Market Street, Victoria Canada
+</li>
+</ul>
+</div>
+<div class="job-inner-right">
+<ul>
+<li>
+<a href="create-account.php">Apply</a>
+</li>
+<li>
+<span>Part Time</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="job-item">
+<img src="assets/img/home-1/jobs/7.png" alt="Job">
+<div class="job-inner align-items-center">
+<div class="job-inner-left">
+<h3>
+<a href="job-details.php">Web Developer</a>
+</h3>
+<a class="company" href="company-details.php">Udiza.com</a>
+<ul>
+<li>
+<i class="icofont-money-bag"></i>
+$20k - $25k
+</li>
+<li>
+<i class="icofont-location-pin"></i>
+Location 210-27 Quadra, Market Street, Victoria Canada
+</li>
+</ul>
+</div>
+<div class="job-inner-right">
+<ul>
+<li>
+<a href="create-account.php">Apply</a>
+</li>
+<li>
+<span>Full Time</span>
+</li>
+</ul>
+</div>
+ </div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="job-item">
+<img src="assets/img/home-1/jobs/8.png" alt="Job">
+<div class="job-inner align-items-center">
+<div class="job-inner-left">
+<h3>
+<a href="job-details.php">SEO</a>
+</h3>
+<a class="company" href="company-details.php">Oqota.com</a>
+<ul>
+<li>
+<i class="icofont-money-bag"></i>
+$20k - $25k
+</li>
+<li>
+<i class="icofont-location-pin"></i>
+Location 210-27 Quadra, Market Street, Victoria Canada
+</li>
+</ul>
+</div>
+<div class="job-inner-right">
+<ul>
+<li>
+<a href="create-account.php">Apply</a>
 </li>
 <li>
 <span>Part Time</span>
@@ -449,25 +579,25 @@ Networking
 <h3>Quick Links</h3>
 <ul>
 <li>
-<a href="index.html">
+<a href="index.php">
 <i class="icofont-simple-right"></i>
- Home
+Home
 </a>
 </li>
 <li>
-<a href="about.html">
+<a href="about.php">
 <i class="icofont-simple-right"></i>
 About Us
 </a>
-</li>
+ </li>
 <li>
-<a href="blog.html">
+<a href="blog.php">
 <i class="icofont-simple-right"></i>
 Blogs
 </a>
 </li>
 <li>
-<a href="company-list.html">
+<a href="company-list.php">
 <i class="icofont-simple-right"></i>
 Companies
 </a>
@@ -499,8 +629,8 @@ Testimonials
 </li>
 <li>
 <i class="icofont-ui-email"></i>
-<a href="../../cdn-cgi/l/email-protection.html#e78f828b8b88a78086858b82c984888a">
-<span class="__cf_email__" data-cfemail="553d3039393a1532343739307b363a38">[email&#160;protected]</span>
+<a href="../../cdn-cgi/l/email-protection.php#731b161f1f1c331412111f165d101c1e">
+<span class="__cf_email__" data-cfemail="c0a8a5acacaf80a7a1a2aca5eea3afad">[email&#160;protected]</span>
 </a>
 </li>
 </ul>
@@ -519,16 +649,16 @@ Testimonials
 <div class="copyright-item copyright-right">
 <ul>
 <li>
-<a href="terms-and-conditions.html" target="_blank">Terms & Conditions</a>
+<a href="terms-and-conditions.php" target="_blank">Terms & Conditions</a>
 </li>
 <li>
 <span>-</span>
 </li>
 <li>
-<a href="privacy-policy.html" target="_blank">Privacy Policy</a>
+<a href="privacy-policy.php" target="_blank">Privacy Policy</a>
 </li>
 </ul>
- </div>
+</div>
 </div>
 </div>
 </div>
@@ -540,7 +670,7 @@ Testimonials
 <script src="assets/js/bootstrap.bundle.min.js"></script>
 
 <script src="assets/js/jquery.meanmenu.js"></script>
-
+ 
 <script src="assets/js/jquery.mixitup.min.js"></script>
 
 <script src="assets/js/owl.carousel.min.js"></script>

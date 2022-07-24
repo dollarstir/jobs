@@ -47,7 +47,7 @@
 <div class="navbar-area fixed-top">
 
 <div class="mobile-nav">
-<a href="index.html" class="logo">
+<a href="index.php" class="logo">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 </div>
@@ -55,7 +55,7 @@
 <div class="main-nav">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -64,33 +64,33 @@
 <a href="#" class="nav-link dropdown-toggle">Home <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="index.html" class="nav-link">Home Page 1</a>
+<a href="index.php" class="nav-link">Home Page 1</a>
 </li>
 <li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Page 2</a>
+<a href="index-2.php" class="nav-link">Home Page 2</a>
 </li>
 <li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Page 3</a>
+<a href="index-3.php" class="nav-link">Home Page 3</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="about.html" class="nav-link">About</a>
+<a href="about.php" class="nav-link">About</a>
 </li>
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">Jobs <i class="icofont-simple-down"></i></a>
+<a href="#" class="nav-link dropdown-toggle active">Jobs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="job-list.html" class="nav-link">Job List</a>
+<a href="job-list.php" class="nav-link">Job List</a>
 </li>
 <li class="nav-item">
-<a href="favourite-job.html" class="nav-link">Favourite Jobs</a>
+<a href="favourite-job.php" class="nav-link">Favourite Jobs</a>
 </li>
 <li class="nav-item">
-<a href="job-details.html" class="nav-link">Job Details</a>
+<a href="job-details.php" class="nav-link active">Job Details</a>
 </li>
 <li class="nav-item">
-<a href="post-a-job.html" class="nav-link">Post A Job</a>
+<a href="post-a-job.php" class="nav-link">Post A Job</a>
 </li>
 </ul>
 </li>
@@ -98,22 +98,22 @@
 <a href="#" class="nav-link dropdown-toggle">Candidates <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="candidate-list.html" class="nav-link">Candidate List</a>
+<a href="candidate-list.php" class="nav-link">Candidate List</a>
 </li>
 <li class="nav-item">
-<a href="candidate-details.html" class="nav-link">Candidate Details</a>
+<a href="candidate-details.php" class="nav-link">Candidate Details</a>
 </li>
 <li class="nav-item">
-<a href="single-resume.html" class="nav-link">Single Resume</a>
+<a href="single-resume.php" class="nav-link">Single Resume</a>
 </li>
 <li class="nav-item">
-<a href="submit-resume.html" class="nav-link">Submit Resume</a>
+<a href="submit-resume.php" class="nav-link">Submit Resume</a>
 </li>
 <li class="nav-item">
-<a href="pricing.html" class="nav-link">Pricing</a>
+<a href="pricing.php" class="nav-link">Pricing</a>
 </li>
 <li class="nav-item">
-<a href="dashboard.html" class="nav-link">Candidate dashboard</a>
+<a href="dashboard.php" class="nav-link">Candidate dashboard</a>
 </li>
 </ul>
 </li>
@@ -121,58 +121,58 @@
 <a href="#" class="nav-link dropdown-toggle">Pages <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="company-list.html" class="nav-link">Company List</a>
+<a href="company-list.php" class="nav-link">Company List</a>
 </li>
 <li class="nav-item">
-<a href="company-details.html" class="nav-link">Company Details</a>
+<a href="company-details.php" class="nav-link">Company Details</a>
 </li>
 <li class="nav-item">
-<a href="login.html" class="nav-link">Login Page</a>
+<a href="login.php" class="nav-link">Login Page</a>
 </li>
 <li class="nav-item">
-<a href="create-account.html" class="nav-link">Create Account Page</a>
+<a href="create-account.php" class="nav-link">Create Account Page</a>
 </li>
 <li class="nav-item">
-<a href="profile.html" class="nav-link">Profile</a>
+<a href="profile.php" class="nav-link">Profile</a>
 </li>
 <li class="nav-item">
-<a href="single-profile.html" class="nav-link">Single Profile</a>
+ <a href="single-profile.php" class="nav-link">Single Profile</a>
 </li>
 <li class="nav-item">
-<a href="404.html" class="nav-link">404</a>
+<a href="404.php" class="nav-link">404</a>
 </li>
 <li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
+<a href="faq.php" class="nav-link">FAQ</a>
 </li>
 <li class="nav-item">
-<a href="terms-and-conditions.html" class="nav-link">Terms and Conditions</a>
+<a href="terms-and-conditions.php" class="nav-link">Terms and Conditions</a>
 </li>
 <li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle active">Blogs <i class="icofont-simple-down"></i></a>
+<a href="#" class="nav-link dropdown-toggle">Blogs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog.html" class="nav-link active">Blog</a>
+<a href="blog.php" class="nav-link">Blog</a>
 </li>
 <li class="nav-item">
-<a href="blog-details.html" class="nav-link">Blog Details</a>
+<a href="blog-details.php" class="nav-link">Blog Details</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="contact.html" class="nav-link">Contact</a>
+<a href="contact.php" class="nav-link">Contact</a>
 </li>
 </ul>
 <div class="common-btn">
-<a class="login-btn" href="login.html">
+<a class="login-btn" href="login.php">
 <i class="icofont-plus-square"></i>
 Login
 </a>
-<a class="sign-up-btn" href="create-account.html">
+<a class="sign-up-btn" href="create-account.php">
 <i class="icofont-user-alt-4"></i>
 Sign Up
 </a>
@@ -189,15 +189,15 @@ Sign Up
 <div class="d-table-cell">
 <div class="container">
 <div class="page-title-text">
-<h2>Blog</h2>
+<h2>Job Details</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>
 <i class="icofont-simple-right"></i>
 </li>
-<li>Blog</li>
+<li>Job Details</li>
 </ul>
 </div>
 </div>
@@ -206,160 +206,116 @@ Sign Up
 </div>
 
 
-<section class="blog-area pt-100">
+<div class="job-details-area pt-100">
 <div class="container">
 <div class="row">
-<div class="col-sm-6 col-lg-4">
-<div class="blog-item wow fadeInUp" data-wow-delay=".3s">
-<div class="blog-top">
-<a href="blog-details.html">
-<img src="assets/img/home-1/blog/1.jpg" alt="Blog">
- </a>
-<span>21 May, 2020</span>
+<div class="col-lg-8">
+<div class="job-details-item">
+<div class="job-description">
+<h2>Job Description</h2>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit magnam sapiente dolor quos expedita quis, ad perspiciatis hic nihil laboriosam at eius.</p>
 </div>
-<div class="blog-bottom">
-<h3>
-<a href="blog-details.html">The next genaration IT will change the world</a>
-</h3>
+<div class="job-knowledge">
+<h2>Required Knowledge, Skills, and Abilities</h2>
 <ul>
 <li>
-<img src="assets/img/home-1/blog/1.png" alt="Blog">
-Aikin Ward
+<i class="icofont-hand-drawn-right"></i>
+Hand On experience with Wordpress
 </li>
 <li>
-<a href="blog-details.html">Read More
-<i class="icofont-simple-right"></i>
-</a>
+<i class="icofont-hand-drawn-right"></i>
+Better knowledge of front-end technologies, including HTML5, CSS3, JavaScript, jQuery
+</li>
+<li>
+<i class="icofont-hand-drawn-right"></i>
+Belief – believing in yourself and those around you
+</li>
+<li>
+<i class="icofont-hand-drawn-right"></i>
+Experience designing and developing responsive design websites
+</li>
+<li>
+<i class="icofont-hand-drawn-right"></i>
+Ability to convert comprehensive layout and wireframes into working HTML pages
+</li>
+<li>
+<i class="icofont-hand-drawn-right"></i>
+Strong understanding of PHP back-end development
 </li>
 </ul>
 </div>
-</div>
-</div>
-<div class="col-sm-6 col-lg-4">
-<div class="blog-item wow fadeInUp" data-wow-delay=".4s">
-<div class="blog-top">
-<a href="blog-details.html">
-<img src="assets/img/home-1/blog/2.jpg" alt="Blog">
-</a>
-<span>22 May, 2020</span>
-</div>
-<div class="blog-bottom">
-<h3>
-<a href="blog-details.html">IT is the most important sector in the world</a>
-</h3>
+<div class="job-knowledge">
+<h2>Education Qualification</h2>
 <ul>
 <li>
-<img src="assets/img/home-1/blog/1.png" alt="Blog">
-Daniel Henry
+<i class="icofont-hand-drawn-right"></i>
+Any Graduattion Degree(13th Pass) (Preferred)
 </li>
 <li>
-<a href="blog-details.html">Read More
-<i class="icofont-simple-right"></i>
-</a>
+<i class="icofont-hand-drawn-right"></i>
+Advanced degree or equivalent experience in graphic and web design
+</li>
+<li>
+<i class="icofont-hand-drawn-right"></i>
+2 or more years of professional design experience
+</li>
+<li>
+<i class="icofont-hand-drawn-right"></i>
+Direct response email experience
+</li>
+<li>
+<i class="icofont-hand-drawn-right"></i>
+Ecommerce website design experience
 </li>
 </ul>
 </div>
+<div class="text-center">
+<a class="job-details-btn" href="create-account.php">Apply Now</a>
 </div>
 </div>
-<div class="col-sm-6 col-lg-4">
-<div class="blog-item wow fadeInUp" data-wow-delay=".5s">
-<div class="blog-top">
-<a href="blog-details.html">
-<img src="assets/img/home-1/blog/3.jpg" alt="Blog">
-</a>
-<span>23 May, 2020</span>
 </div>
-<div class="blog-bottom">
-<h3>
-<a href="blog-details.html">Nowadays IT is being most popular</a>
-</h3>
+<div class="col-lg-4">
+<div class="job-details-item">
+<div class="job-overview">
+<h3>Overview</h3>
 <ul>
 <li>
-<img src="assets/img/home-1/blog/1.png" alt="Blog">
-Lucas Mason
+<i class="icofont-dollar"></i>
+<p>Offered Salary</p>
+<span>$10k-$150k</span>
 </li>
 <li>
-<a href="blog-details.html">Read More
-<i class="icofont-simple-right"></i>
-</a>
+<i class="icofont-users-alt-3"></i>
+<p>Gender</p>
+<span>Male</span>
+</li>
+<li>
+<i class="icofont-badge"></i>
+<p>Experince</p>
+<span>2 Years</span>
+</li>
+<li>
+<i class="icofont-graduate"></i>
+<p>Qualification</p>
+<span>Master Degree</span>
 </li>
 </ul>
 </div>
-</div>
-</div>
-<div class="col-sm-6 col-lg-4">
-<div class="blog-item wow fadeInUp" data-wow-delay=".3s">
-<div class="blog-top">
-<a href="blog-details.html">
-<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/blog/4.jpg" alt="Blog">
-</a>
-<span>26 May, 2020</span>
-</div>
-<div class="blog-bottom">
-<h3>
-<a href="blog-details.html">IT job is an smart profession in the world</a>
-</h3>
+<div class="job-overview job-company">
+<h3>Company Address</h3>
 <ul>
 <li>
-<img src="assets/img/home-1/blog/1.png" alt="Blog">
-William James
+<i class="icofont-location-pin"></i>
+<span>4th Floor, 408 No Chamber</span>
 </li>
 <li>
-<a href="blog-details.html">Read More
-<i class="icofont-simple-right"></i>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-sm-6 col-lg-4">
-<div class="blog-item wow fadeInUp" data-wow-delay=".4s">
-<div class="blog-top">
-<a href="blog-details.html">
-<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/blog/5.jpg" alt="Blog">
-</a>
-<span>27 May, 2020</span>
-</div>
-<div class="blog-bottom">
-<h3>
-<a href="blog-details.html">Economy growth is being increased by IT sectors</a>
-</h3>
-<ul>
-<li>
-<img src="assets/img/home-1/blog/1.png" alt="Blog">
-Liam Noah
+<i class="icofont-ui-call"></i>
+<a href="tel:+07554332322">Call : +07 554 332 322</a>
 </li>
 <li>
-<a href="blog-details.html">Read More
-<i class="icofont-simple-right"></i>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-sm-6 col-lg-4">
-<div class="blog-item wow fadeInUp" data-wow-delay=".5s">
-<div class="blog-top">
-<a href="blog-details.html">
-<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/blog/6.jpg" alt="Blog">
-</a>
-<span>28 May, 2020</span>
-</div>
-<div class="blog-bottom">
-<h3>
-<a href="blog-details.html">Every country is giving priority in IT sector</a>
-</h3>
-<ul>
-<li>
-<img src="assets/img/home-1/blog/1.png" alt="Blog">
-Tom Potter
-</li>
-<li>
-<a href="blog-details.html">Read More
-<i class="icofont-simple-right"></i>
-</a>
+<i class="icofont-ui-email"></i>
+<a href="../../cdn-cgi/l/email-protection.php#0e666b6262614e696f6c626b206d6163"><span class="__cf_email__" data-cfemail="d6beb3babab996b1b7b4bab3f8b5b9bb">[email&#160;protected]</span></a>
 </li>
 </ul>
 </div>
@@ -367,7 +323,7 @@ Tom Potter
 </div>
 </div>
 </div>
-</section>
+</div>
 
 
 <footer>
@@ -388,7 +344,7 @@ Tom Potter
 <form class="newsletter-form" data-toggle="validator">
 <input type="email" class="form-control" placeholder="Enter Your Email" name="EMAIL" required autocomplete="off">
 <button class="btn subscribe-btn" type="submit">
-Subscribe
+ Subscribe
 </button>
 <div id="validator-newsletter" class="form-result"></div>
 </form>
@@ -442,7 +398,7 @@ Development
 <li>
 <a href="#">
 <i class="icofont-simple-right"></i>
- Business
+Business
 </a>
 </li>
 <li>
@@ -463,7 +419,7 @@ Finance
 Networking
 </a>
 </li>
-</ul>
+ </ul>
 </div>
 </div>
 </div>
@@ -473,25 +429,25 @@ Networking
 <h3>Quick Links</h3>
 <ul>
 <li>
-<a href="index.html">
+<a href="index.php">
 <i class="icofont-simple-right"></i>
 Home
 </a>
 </li>
 <li>
-<a href="about.html">
+<a href="about.php">
 <i class="icofont-simple-right"></i>
 About Us
 </a>
 </li>
 <li>
-<a href="blog.html">
+<a href="blog.php">
 <i class="icofont-simple-right"></i>
 Blogs
 </a>
 </li>
 <li>
-<a href="company-list.html">
+<a href="company-list.php">
 <i class="icofont-simple-right"></i>
 Companies
 </a>
@@ -521,10 +477,10 @@ Testimonials
 +88 0123 456 789
 </a>
 </li>
- <li>
+<li>
 <i class="icofont-ui-email"></i>
-<a href="../../cdn-cgi/l/email-protection.html#b9d1dcd5d5d6f9ded8dbd5dc97dad6d4">
-<span class="__cf_email__" data-cfemail="4028252c2c2f002721222c256e232f2d">[email&#160;protected]</span>
+<a href="../../cdn-cgi/l/email-protection.php#87efe2ebebe8c7e0e6e5ebe2a9e4e8ea">
+<span class="__cf_email__" data-cfemail="f8909d949497b89f999a949dd69b9795">[email&#160;protected]</span>
 </a>
 </li>
 </ul>
@@ -542,14 +498,14 @@ Testimonials
 <div class="col-lg-6">
 <div class="copyright-item copyright-right">
 <ul>
-<li>
-<a href="terms-and-conditions.html" target="_blank">Terms & Conditions</a>
+ <li>
+<a href="terms-and-conditions.php" target="_blank">Terms & Conditions</a>
 </li>
 <li>
 <span>-</span>
 </li>
 <li>
-<a href="privacy-policy.html" target="_blank">Privacy Policy</a>
+<a href="privacy-policy.php" target="_blank">Privacy Policy</a>
 </li>
 </ul>
 </div>

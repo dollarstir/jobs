@@ -47,7 +47,7 @@
 <div class="navbar-area fixed-top">
 
 <div class="mobile-nav">
-<a href="index.html" class="logo">
+<a href="index.php" class="logo">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 </div>
@@ -55,7 +55,7 @@
 <div class="main-nav">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -64,56 +64,56 @@
 <a href="#" class="nav-link dropdown-toggle">Home <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="index.html" class="nav-link">Home Page 1</a>
+<a href="index.php" class="nav-link">Home Page 1</a>
 </li>
 <li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Page 2</a>
+<a href="index-2.php" class="nav-link">Home Page 2</a>
 </li>
 <li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Page 3</a>
+<a href="index-3.php" class="nav-link">Home Page 3</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="about.html" class="nav-link">About</a>
+<a href="about.php" class="nav-link">About</a>
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">Jobs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="job-list.html" class="nav-link">Job List</a>
+<a href="job-list.php" class="nav-link">Job List</a>
 </li>
 <li class="nav-item">
-<a href="favourite-job.html" class="nav-link">Favourite Jobs</a>
+<a href="favourite-job.php" class="nav-link">Favourite Jobs</a>
 </li>
 <li class="nav-item">
-<a href="job-details.html" class="nav-link">Job Details</a>
+<a href="job-details.php" class="nav-link">Job Details</a>
 </li>
 <li class="nav-item">
-<a href="post-a-job.html" class="nav-link">Post A Job</a>
+<a href="post-a-job.php" class="nav-link">Post A Job</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle active">Candidates <i class="icofont-simple-down"></i></a>
+<a href="#" class="nav-link dropdown-toggle">Candidates <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="candidate-list.html" class="nav-link">Candidate List</a>
+<a href="candidate-list.php" class="nav-link">Candidate List</a>
 </li>
 <li class="nav-item">
-<a href="candidate-details.html" class="nav-link">Candidate Details</a>
+<a href="candidate-details.php" class="nav-link">Candidate Details</a>
 </li>
 <li class="nav-item">
-<a href="single-resume.html" class="nav-link">Single Resume</a>
+<a href="single-resume.php" class="nav-link">Single Resume</a>
 </li>
 <li class="nav-item">
-<a href="submit-resume.html" class="nav-link">Submit Resume</a>
+<a href="submit-resume.php" class="nav-link">Submit Resume</a>
 </li>
 <li class="nav-item">
-<a href="pricing.html" class="nav-link active">Pricing</a>
+<a href="pricing.php" class="nav-link">Pricing</a>
 </li>
 <li class="nav-item">
-<a href="dashboard.html" class="nav-link">Candidate dashboard</a>
+<a href="dashboard.php" class="nav-link">Candidate dashboard</a>
 </li>
 </ul>
 </li>
@@ -121,34 +121,34 @@
 <a href="#" class="nav-link dropdown-toggle">Pages <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="company-list.html" class="nav-link">Company List</a>
+<a href="company-list.php" class="nav-link">Company List</a>
 </li>
 <li class="nav-item">
-<a href="company-details.html" class="nav-link">Company Details</a>
+<a href="company-details.php" class="nav-link">Company Details</a>
 </li>
 <li class="nav-item">
-<a href="login.html" class="nav-link">Login Page</a>
+<a href="login.php" class="nav-link">Login Page</a>
 </li>
 <li class="nav-item">
-<a href="create-account.html" class="nav-link">Create Account Page</a>
+<a href="create-account.php" class="nav-link">Create Account Page</a>
 </li>
 <li class="nav-item">
-<a href="profile.html" class="nav-link">Profile</a>
+<a href="profile.php" class="nav-link">Profile</a>
 </li>
 <li class="nav-item">
- <a href="single-profile.html" class="nav-link">Single Profile</a>
+<a href="single-profile.php" class="nav-link">Single Profile</a>
 </li>
 <li class="nav-item">
-<a href="404.html" class="nav-link">404</a>
+<a href="404.php" class="nav-link">404</a>
 </li>
 <li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
+<a href="faq.php" class="nav-link">FAQ</a>
 </li>
 <li class="nav-item">
-<a href="terms-and-conditions.html" class="nav-link">Terms and Conditions</a>
+<a href="terms-and-conditions.php" class="nav-link">Terms and Conditions</a>
 </li>
 <li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
 </li>
 </ul>
 </li>
@@ -156,23 +156,23 @@
 <a href="#" class="nav-link dropdown-toggle">Blogs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog.html" class="nav-link">Blog</a>
+<a href="blog.php" class="nav-link">Blog</a>
 </li>
 <li class="nav-item">
-<a href="blog-details.html" class="nav-link">Blog Details</a>
+<a href="blog-details.php" class="nav-link">Blog Details</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="contact.html" class="nav-link">Contact</a>
+<a href="contact.php" class="nav-link active">Contact</a>
 </li>
 </ul>
 <div class="common-btn">
-<a class="login-btn" href="login.html">
+<a class="login-btn" href="login.php">
 <i class="icofont-plus-square"></i>
 Login
 </a>
-<a class="sign-up-btn" href="create-account.html">
+<a class="sign-up-btn" href="create-account.php">
 <i class="icofont-user-alt-4"></i>
 Sign Up
 </a>
@@ -189,15 +189,15 @@ Sign Up
 <div class="d-table-cell">
 <div class="container">
 <div class="page-title-text">
-<h2>Pricing</h2>
+<h2>Contact</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>
 <i class="icofont-simple-right"></i>
 </li>
-<li>Pricing</li>
+<li>Contact</li>
 </ul>
 </div>
 </div>
@@ -206,59 +206,72 @@ Sign Up
 </div>
 
 
-<div class="pricing-area pt-100">
-<div class="container">
-<div class="row">
-<div class="col-sm-6 col-lg-4">
-<div class="pricing-item wow fadeInUp" data-wow-delay=".3s">
-<span>Basic</span>
-<h2>$30</h2>
-<p>Always</p>
-<ul>
-<li>2 Jobs Posting</li>
-<li>1 Renew Jobs</li>
-<li>2 Featured Jobs</li>
-<li>10 Days Duration</li>
-</ul>
-<a class="pricing-btn" href="submit-resume.html">Get Started</a>
+<div class="contact-form-area ptb-100">
+<div class="container-fluid">
+<form id="contactForm">
+<div class="row contact-wrap">
+<div class="col-sm-6 col-lg-6">
+<div class="form-group">
+<input type="text" name="name" id="name" class="form-control" required data-error="Please enter your name" placeholder="Your Full Name">
+ <div class="help-block with-errors"></div>
 </div>
 </div>
-<div class="col-sm-6 col-lg-4">
-<div class="pricing-item pricing-two wow fadeInUp" data-wow-delay=".4s">
-<span>Premium</span>
-<h2>$50</h2>
-<p>Always</p>
-<ul>
-<li>4 Jobs Posting</li>
-<li>2 Renew Jobs</li>
-<li>5 Featured Jobs</li>
-<li>12 Days Duration</li>
-</ul>
-<a class="pricing-btn" href="submit-resume.html">Get Started</a>
+<div class="col-sm-6 col-lg-6">
+<div class="form-group">
+<input type="email" name="email" id="email" class="form-control" required data-error="Please enter your email" placeholder="Your Email">
+<div class="help-block with-errors"></div>
 </div>
 </div>
-<div class="col-sm-6 offset-sm-3 offset-lg-0 col-lg-4">
-<div class="pricing-item wow fadeInUp" data-wow-delay=".5s">
-<span>Advance</span>
-<h2>$100</h2>
-<p>Always</p>
-<ul>
-<li>7 Jobs Posting</li>
-<li>3 Renew Jobs</li>
-<li>8 Featured Jobs</li>
-<li>15 Days Duration</li>
-</ul>
-<a class="pricing-btn" href="submit-resume.html">Get Started</a>
+<div class="col-sm-6 col-lg-6">
+<div class="form-group">
+<input type="text" name="phone_number" id="phone_number" required data-error="Please enter your number" class="form-control" placeholder="Your Phone">
+<div class="help-block with-errors"></div>
 </div>
+</div>
+<div class="col-sm-6 col-lg-6">
+<div class="form-group">
+<input type="text" name="msg_subject" id="msg_subject" class="form-control" required data-error="Please enter your subject" placeholder="Subject">
+<div class="help-block with-errors"></div>
+</div>
+</div>
+<div class="col-md-12 col-lg-12">
+<div class="form-group">
+<textarea name="message" class="form-control" id="message" cols="30" rows="8" required data-error="Write your message" placeholder="Job Description"></textarea>
+<div class="help-block with-errors"></div>
+</div>
+</div>
+<div class="col-lg-12 col-md-12">
+<div class="form-group">
+<div class="form-check agree-label">
+<input name="gridCheck" value="I agree to the terms and privacy policy." class="form-check-input" type="checkbox" id="gridCheck" required>
+<label class="form-check-label" for="gridCheck">
+Accept <a href="https://templates.hibootstrap.com/gable/default/terms-condition.php">Terms & Conditions</a> And <a href="privacy-policy.php">Privacy Policy.</a>
+</label>
+<div class="help-block with-errors gridCheck-error"></div>
 </div>
 </div>
 </div>
+<div class="col-md-12 col-lg-12">
+<div class="text-center">
+<button type="submit" class="btn contact-btn">Submit</button>
+</div>
+<div id="msgSubmit" class="h3 text-center hidden"></div>
+<div class="clearfix"></div>
+</div>
+</div>
+</form>
+</div>
+</div>
+
+
+<div class="map-area pb-100">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.15830869428!2d-74.119763973046!3d40.69766374874431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1587549815840!5m2!1sen!2sbd"></iframe>
 </div>
 
 
 <footer>
 <div class="container">
-
+ 
 <div class="subscribe-area">
 <div class="section-title">
 <h2>Subscribe Newsletter</h2>
@@ -330,7 +343,7 @@ Development
 <i class="icofont-simple-right"></i>
 Business
 </a>
-</li>
+ </li>
 <li>
 <a href="#">
 <i class="icofont-simple-right"></i>
@@ -359,25 +372,25 @@ Networking
 <h3>Quick Links</h3>
 <ul>
 <li>
-<a href="index.html">
+<a href="index.php">
 <i class="icofont-simple-right"></i>
 Home
 </a>
 </li>
 <li>
-<a href="about.html">
+<a href="about.php">
 <i class="icofont-simple-right"></i>
 About Us
 </a>
 </li>
- <li>
-<a href="blog.html">
+<li>
+<a href="blog.php">
 <i class="icofont-simple-right"></i>
 Blogs
 </a>
 </li>
 <li>
-<a href="company-list.html">
+<a href="company-list.php">
 <i class="icofont-simple-right"></i>
 Companies
 </a>
@@ -409,8 +422,8 @@ Testimonials
 </li>
 <li>
 <i class="icofont-ui-email"></i>
-<a href="../../cdn-cgi/l/email-protection.html#1d75787171725d7a7c7f7178337e7270">
-<span class="__cf_email__" data-cfemail="b0d8d5dcdcdff0d7d1d2dcd59ed3dfdd">[email&#160;protected]</span>
+ <a href="../../cdn-cgi/l/email-protection.php#8ce4e9e0e0e3ccebedeee0e9a2efe3e1">
+<span class="__cf_email__" data-cfemail="dfb7bab3b3b09fb8bebdb3baf1bcb0b2">[email&#160;protected]</span>
 </a>
 </li>
 </ul>
@@ -429,13 +442,13 @@ Testimonials
 <div class="copyright-item copyright-right">
 <ul>
 <li>
-<a href="terms-and-conditions.html" target="_blank">Terms & Conditions</a>
+<a href="terms-and-conditions.php" target="_blank">Terms & Conditions</a>
 </li>
 <li>
 <span>-</span>
 </li>
 <li>
-<a href="privacy-policy.html" target="_blank">Privacy Policy</a>
+<a href="privacy-policy.php" target="_blank">Privacy Policy</a>
 </li>
 </ul>
 </div>

@@ -47,7 +47,7 @@
 <div class="navbar-area fixed-top">
 
 <div class="mobile-nav">
-<a href="index.html" class="logo">
+<a href="index.php" class="logo">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 </div>
@@ -55,7 +55,7 @@
 <div class="main-nav">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -64,56 +64,56 @@
 <a href="#" class="nav-link dropdown-toggle">Home <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="index.html" class="nav-link">Home Page 1</a>
+<a href="index.php" class="nav-link">Home Page 1</a>
 </li>
 <li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Page 2</a>
+<a href="index-2.php" class="nav-link">Home Page 2</a>
 </li>
 <li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Page 3</a>
+<a href="index-3.php" class="nav-link">Home Page 3</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="about.html" class="nav-link">About</a>
+<a href="about.php" class="nav-link">About</a>
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">Jobs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="job-list.html" class="nav-link">Job List</a>
+<a href="job-list.php" class="nav-link">Job List</a>
 </li>
 <li class="nav-item">
-<a href="favourite-job.html" class="nav-link">Favourite Jobs</a>
+<a href="favourite-job.php" class="nav-link">Favourite Jobs</a>
 </li>
 <li class="nav-item">
-<a href="job-details.html" class="nav-link">Job Details</a>
+<a href="job-details.php" class="nav-link">Job Details</a>
 </li>
 <li class="nav-item">
-<a href="post-a-job.html" class="nav-link">Post A Job</a>
+<a href="post-a-job.php" class="nav-link">Post A Job</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">Candidates <i class="icofont-simple-down"></i></a>
+<a href="#" class="nav-link dropdown-toggle active">Candidates <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="candidate-list.html" class="nav-link">Candidate List</a>
+<a href="candidate-list.php" class="nav-link">Candidate List</a>
 </li>
 <li class="nav-item">
-<a href="candidate-details.html" class="nav-link">Candidate Details</a>
+<a href="candidate-details.php" class="nav-link active">Candidate Details</a>
 </li>
 <li class="nav-item">
-<a href="single-resume.html" class="nav-link">Single Resume</a>
+<a href="single-resume.php" class="nav-link">Single Resume</a>
 </li>
 <li class="nav-item">
-<a href="submit-resume.html" class="nav-link">Submit Resume</a>
+<a href="submit-resume.php" class="nav-link">Submit Resume</a>
 </li>
 <li class="nav-item">
-<a href="pricing.html" class="nav-link">Pricing</a>
+<a href="pricing.php" class="nav-link">Pricing</a>
 </li>
 <li class="nav-item">
-<a href="dashboard.html" class="nav-link">Candidate dashboard</a>
+<a href="dashboard.php" class="nav-link">Candidate dashboard</a>
 </li>
 </ul>
 </li>
@@ -121,34 +121,34 @@
 <a href="#" class="nav-link dropdown-toggle">Pages <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="company-list.html" class="nav-link">Company List</a>
+<a href="company-list.php" class="nav-link">Company List</a>
 </li>
 <li class="nav-item">
-<a href="company-details.html" class="nav-link">Company Details</a>
+<a href="company-details.php" class="nav-link">Company Details</a>
 </li>
 <li class="nav-item">
-<a href="login.html" class="nav-link">Login Page</a>
+<a href="login.php" class="nav-link">Login Page</a>
 </li>
 <li class="nav-item">
-<a href="create-account.html" class="nav-link">Create Account Page</a>
+<a href="create-account.php" class="nav-link">Create Account Page</a>
 </li>
 <li class="nav-item">
-<a href="profile.html" class="nav-link">Profile</a>
+<a href="profile.php" class="nav-link">Profile</a>
 </li>
 <li class="nav-item">
-<a href="single-profile.html" class="nav-link">Single Profile</a>
+ <a href="single-profile.php" class="nav-link">Single Profile</a>
 </li>
 <li class="nav-item">
-<a href="404.html" class="nav-link">404</a>
+<a href="404.php" class="nav-link">404</a>
 </li>
 <li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
+<a href="faq.php" class="nav-link">FAQ</a>
 </li>
 <li class="nav-item">
-<a href="terms-and-conditions.html" class="nav-link">Terms and Conditions</a>
+<a href="terms-and-conditions.php" class="nav-link">Terms and Conditions</a>
 </li>
 <li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
 </li>
 </ul>
 </li>
@@ -156,23 +156,23 @@
 <a href="#" class="nav-link dropdown-toggle">Blogs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog.html" class="nav-link">Blog</a>
+<a href="blog.php" class="nav-link">Blog</a>
 </li>
 <li class="nav-item">
-<a href="blog-details.html" class="nav-link">Blog Details</a>
+<a href="blog-details.php" class="nav-link">Blog Details</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="contact.html" class="nav-link active">Contact</a>
+<a href="contact.php" class="nav-link">Contact</a>
 </li>
 </ul>
 <div class="common-btn">
-<a class="login-btn" href="login.html">
+<a class="login-btn" href="login.php">
 <i class="icofont-plus-square"></i>
 Login
 </a>
-<a class="sign-up-btn" href="create-account.html">
+<a class="sign-up-btn" href="create-account.php">
 <i class="icofont-user-alt-4"></i>
 Sign Up
 </a>
@@ -189,15 +189,15 @@ Sign Up
 <div class="d-table-cell">
 <div class="container">
 <div class="page-title-text">
-<h2>Contact</h2>
+<h2>Candidate Details</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>
 <i class="icofont-simple-right"></i>
 </li>
-<li>Contact</li>
+<li>Candidate Details</li>
 </ul>
 </div>
 </div>
@@ -206,72 +206,143 @@ Sign Up
 </div>
 
 
-<div class="contact-form-area ptb-100">
-<div class="container-fluid">
-<form id="contactForm">
-<div class="row contact-wrap">
-<div class="col-sm-6 col-lg-6">
-<div class="form-group">
-<input type="text" name="name" id="name" class="form-control" required data-error="Please enter your name" placeholder="Your Full Name">
- <div class="help-block with-errors"></div>
+<div class="single-profile-area pt-100">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-lg-5">
+<div class="single-profile-item">
+<img src="https://templates.hibootstrap.com/gable/default/assets/img/single-profile/2.jpg" alt="Profile">
+<div class="single-profile-left">
+<div class="single-profile-contact">
+<h3>Contact Info</h3>
+<ul>
+<li>
+<i class="icofont-ui-call"></i>
+<a href="tel:+07554332322">Call : +07 554 332 322</a>
+</li>
+<li>
+<i class="icofont-email"></i>
+<a href="../../cdn-cgi/l/email-protection.php#d6beb3babab996b1b7b4bab3f8b5b9bb"><span class="__cf_email__" data-cfemail="87efe2ebebe8c7e0e6e5ebe2a9e4e8ea">[email&#160;protected]</span></a>
+</li>
+<li>
+<i class="icofont-location-pin"></i>
+4th Floor, 408 No Chamber
+</li>
+</ul>
+</div>
+<div class="single-profile-social">
+<h3>Social Links</h3>
+<ul>
+<li>
+<i class="icofont-facebook"></i>
+<a href="https://www.facebook.com" target="_blank">https://www.facebook.com</a>
+</li>
+<li>
+<i class="icofont-instagram"></i>
+<a href="https://www.instagram.com" target="_blank">https://www.instagram.com</a>
+</li>
+<li>
+<i class="icofont-linkedin"></i>
+<a href="https://www.linkedin.com" target="_blank">https://www.linkedin.com</a>
+</li>
+<li>
+<i class="icofont-twitter"></i>
+<a href="https://www.twitter.com" target="_blank">https://www.twitter.com</a>
+</li>
+</ul>
+</div>
+<div class="single-profile-skills">
+<h3>My Skills</h3>
+<div class="skill">
+<p>Frontend Design</p>
+<div class="skill-bar skill1 wow slideInLeft animated">
+<span class="skill-count1">70%</span>
 </div>
 </div>
-<div class="col-sm-6 col-lg-6">
-<div class="form-group">
-<input type="email" name="email" id="email" class="form-control" required data-error="Please enter your email" placeholder="Your Email">
-<div class="help-block with-errors"></div>
+<div class="skill">
+<p>Software Development</p>
+<div class="skill-bar skill1 skill2 wow slideInLeft animated">
+<span class="skill-count1">90%</span>
 </div>
 </div>
-<div class="col-sm-6 col-lg-6">
-<div class="form-group">
-<input type="text" name="phone_number" id="phone_number" required data-error="Please enter your number" class="form-control" placeholder="Your Phone">
-<div class="help-block with-errors"></div>
-</div>
-</div>
-<div class="col-sm-6 col-lg-6">
-<div class="form-group">
-<input type="text" name="msg_subject" id="msg_subject" class="form-control" required data-error="Please enter your subject" placeholder="Subject">
-<div class="help-block with-errors"></div>
-</div>
-</div>
-<div class="col-md-12 col-lg-12">
-<div class="form-group">
-<textarea name="message" class="form-control" id="message" cols="30" rows="8" required data-error="Write your message" placeholder="Job Description"></textarea>
-<div class="help-block with-errors"></div>
-</div>
-</div>
-<div class="col-lg-12 col-md-12">
-<div class="form-group">
-<div class="form-check agree-label">
-<input name="gridCheck" value="I agree to the terms and privacy policy." class="form-check-input" type="checkbox" id="gridCheck" required>
-<label class="form-check-label" for="gridCheck">
-Accept <a href="https://templates.hibootstrap.com/gable/default/terms-condition.html">Terms & Conditions</a> And <a href="privacy-policy.html">Privacy Policy.</a>
-</label>
-<div class="help-block with-errors gridCheck-error"></div>
+<div class="skill">
+<p>UIUX Design</p>
+<div class="skill-bar skill1 skill3 wow slideInLeft animated">
+<span class="skill-count1">75%</span>
 </div>
 </div>
 </div>
-<div class="col-md-12 col-lg-12">
-<div class="text-center">
-<button type="submit" class="btn contact-btn">Submit</button>
-</div>
-<div id="msgSubmit" class="h3 text-center hidden"></div>
-<div class="clearfix"></div>
 </div>
 </div>
-</form>
+</div>
+<div class="col-lg-7">
+<div class="single-profile-item">
+<div class="single-profile-right">
+<div class="single-profile-name">
+<h2>Jac Jacson</h2>
+<span>Web Consultant</span>
+<p>Bachelor of Business Administation university of Gable</p>
+<a href="#">
+View CV
+<i class="icofont-eye-alt"></i>
+</a>
+<a href="#">
+Download CV
+<i class="icofont-download"></i>
+</a>
+</div>
+<div class="single-profile-textarea">
+<div class="single-profile-heading">
+<span></span>
+<h3>Description</h3>
+</div>
+<div class="single-profile-paragraph">
+<p class="single-profile-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+<p>Risus commodo viverra maecenas accumsan lacus vel facilisis.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+</div>
+<div class="single-profile-heading">
+<span></span>
+<h3>Education</h3>
+</div>
+<div class="single-profile-paragraph">
+<ul>
+<li>PHD degree in Criminal Law at University of Gable Internatinal (2006)</li>
+<li>Master of Family Law at University of Gable International (2002)</li>
+<li>MBBS LLB (Hon’s) in at University of Gable International (2002)</li>
+<li>Higher Secondary Certificate at Gable International collage (1991)</li>
+</ul>
+</div>
+<div class="single-profile-heading">
+<span></span>
+<h3>Research</h3>
+</div>
+<div class="single-profile-paragraph">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra</p>
+</div>
+<div class="single-profile-heading">
+<span></span>
+<h3>Work Experiences</h3>
+</div>
+<div class="single-profile-paragraph">
+<ul>
+<li>Hand On experience with Wordpress</li>
+<li> Better knowledge of front-end technologies, including HTML5, CSS3, JavaScript, jQuery</li>
+<li>Belief – believing in yourself and those around you</li>
+<li>Experience designing and developing responsive design websites</li>
+</ul>
+ </div>
 </div>
 </div>
-
-
-<div class="map-area pb-100">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.15830869428!2d-74.119763973046!3d40.69766374874431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1587549815840!5m2!1sen!2sbd"></iframe>
+</div>
+</div>
+</div>
+</div>
 </div>
 
 
 <footer>
 <div class="container">
- 
+
 <div class="subscribe-area">
 <div class="section-title">
 <h2>Subscribe Newsletter</h2>
@@ -337,13 +408,13 @@ Subscribe
 <i class="icofont-simple-right"></i>
 Development
 </a>
-</li>
+ </li>
 <li>
 <a href="#">
 <i class="icofont-simple-right"></i>
 Business
 </a>
- </li>
+</li>
 <li>
 <a href="#">
 <i class="icofont-simple-right"></i>
@@ -372,25 +443,25 @@ Networking
 <h3>Quick Links</h3>
 <ul>
 <li>
-<a href="index.html">
+<a href="index.php">
 <i class="icofont-simple-right"></i>
 Home
 </a>
 </li>
 <li>
-<a href="about.html">
+<a href="about.php">
 <i class="icofont-simple-right"></i>
 About Us
 </a>
 </li>
 <li>
-<a href="blog.html">
+<a href="blog.php">
 <i class="icofont-simple-right"></i>
 Blogs
 </a>
 </li>
 <li>
-<a href="company-list.html">
+<a href="company-list.php">
 <i class="icofont-simple-right"></i>
 Companies
 </a>
@@ -416,14 +487,14 @@ Testimonials
 </li>
 <li>
 <i class="icofont-ui-call"></i>
-<a href="tel:+880123456789">
+ <a href="tel:+880123456789">
 +88 0123 456 789
 </a>
 </li>
 <li>
 <i class="icofont-ui-email"></i>
- <a href="../../cdn-cgi/l/email-protection.html#8ce4e9e0e0e3ccebedeee0e9a2efe3e1">
-<span class="__cf_email__" data-cfemail="dfb7bab3b3b09fb8bebdb3baf1bcb0b2">[email&#160;protected]</span>
+<a href="../../cdn-cgi/l/email-protection.php#325a575e5e5d725553505e571c515d5f">
+<span class="__cf_email__" data-cfemail="234b464f4f4c634442414f460d404c4e">[email&#160;protected]</span>
 </a>
 </li>
 </ul>
@@ -442,13 +513,13 @@ Testimonials
 <div class="copyright-item copyright-right">
 <ul>
 <li>
-<a href="terms-and-conditions.html" target="_blank">Terms & Conditions</a>
+<a href="terms-and-conditions.php" target="_blank">Terms & Conditions</a>
 </li>
 <li>
 <span>-</span>
 </li>
 <li>
-<a href="privacy-policy.html" target="_blank">Privacy Policy</a>
+<a href="privacy-policy.php" target="_blank">Privacy Policy</a>
 </li>
 </ul>
 </div>

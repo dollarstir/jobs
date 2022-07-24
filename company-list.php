@@ -47,7 +47,7 @@
 <div class="navbar-area fixed-top">
 
 <div class="mobile-nav">
-<a href="index.html" class="logo">
+<a href="index.php" class="logo">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 </div>
@@ -55,7 +55,7 @@
 <div class="main-nav">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -64,33 +64,33 @@
 <a href="#" class="nav-link dropdown-toggle">Home <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="index.html" class="nav-link">Home Page 1</a>
+<a href="index.php" class="nav-link">Home Page 1</a>
 </li>
 <li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Page 2</a>
+<a href="index-2.php" class="nav-link">Home Page 2</a>
 </li>
 <li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Page 3</a>
+<a href="index-3.php" class="nav-link">Home Page 3</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="about.html" class="nav-link">About</a>
+<a href="about.php" class="nav-link">About</a>
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">Jobs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="job-list.html" class="nav-link">Job List</a>
+<a href="job-list.php" class="nav-link">Job List</a>
 </li>
 <li class="nav-item">
-<a href="favourite-job.html" class="nav-link">Favourite Jobs</a>
+<a href="favourite-job.php" class="nav-link">Favourite Jobs</a>
 </li>
 <li class="nav-item">
-<a href="job-details.html" class="nav-link">Job Details</a>
+<a href="job-details.php" class="nav-link">Job Details</a>
 </li>
 <li class="nav-item">
-<a href="post-a-job.html" class="nav-link">Post A Job</a>
+<a href="post-a-job.php" class="nav-link">Post A Job</a>
 </li>
 </ul>
 </li>
@@ -98,22 +98,22 @@
 <a href="#" class="nav-link dropdown-toggle">Candidates <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="candidate-list.html" class="nav-link">Candidate List</a>
+<a href="candidate-list.php" class="nav-link">Candidate List</a>
 </li>
 <li class="nav-item">
-<a href="candidate-details.html" class="nav-link">Candidate Details</a>
+<a href="candidate-details.php" class="nav-link">Candidate Details</a>
 </li>
 <li class="nav-item">
-<a href="single-resume.html" class="nav-link">Single Resume</a>
+<a href="single-resume.php" class="nav-link">Single Resume</a>
 </li>
 <li class="nav-item">
-<a href="submit-resume.html" class="nav-link">Submit Resume</a>
+<a href="submit-resume.php" class="nav-link">Submit Resume</a>
 </li>
 <li class="nav-item">
-<a href="pricing.html" class="nav-link">Pricing</a>
+<a href="pricing.php" class="nav-link">Pricing</a>
 </li>
 <li class="nav-item">
-<a href="dashboard.html" class="nav-link">Candidate dashboard</a>
+<a href="dashboard.php" class="nav-link">Candidate dashboard</a>
 </li>
 </ul>
 </li>
@@ -121,34 +121,34 @@
 <a href="#" class="nav-link dropdown-toggle active">Pages <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="company-list.html" class="nav-link">Company List</a>
+<a href="company-list.php" class="nav-link active">Company List</a>
 </li>
 <li class="nav-item">
-<a href="company-details.html" class="nav-link">Company Details</a>
+<a href="company-details.php" class="nav-link">Company Details</a>
 </li>
 <li class="nav-item">
-<a href="login.html" class="nav-link">Login Page</a>
+<a href="login.php" class="nav-link">Login Page</a>
 </li>
 <li class="nav-item">
-<a href="create-account.html" class="nav-link">Create Account Page</a>
+<a href="create-account.php" class="nav-link">Create Account Page</a>
 </li>
 <li class="nav-item">
-<a href="profile.html" class="nav-link active">Profile</a>
+<a href="profile.php" class="nav-link">Profile</a>
 </li>
 <li class="nav-item">
- <a href="single-profile.html" class="nav-link">Single Profile</a>
+ <a href="single-profile.php" class="nav-link">Single Profile</a>
 </li>
 <li class="nav-item">
-<a href="404.html" class="nav-link">404</a>
+<a href="404.php" class="nav-link">404</a>
 </li>
 <li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
+<a href="faq.php" class="nav-link">FAQ</a>
 </li>
 <li class="nav-item">
-<a href="terms-and-conditions.html" class="nav-link">Terms and Conditions</a>
+<a href="terms-and-conditions.php" class="nav-link">Terms and Conditions</a>
 </li>
 <li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
 </li>
 </ul>
 </li>
@@ -156,23 +156,23 @@
 <a href="#" class="nav-link dropdown-toggle">Blogs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog.html" class="nav-link">Blog</a>
+<a href="blog.php" class="nav-link">Blog</a>
 </li>
 <li class="nav-item">
-<a href="blog-details.html" class="nav-link">Blog Details</a>
+<a href="blog-details.php" class="nav-link">Blog Details</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="contact.html" class="nav-link">Contact</a>
+<a href="contact.php" class="nav-link">Contact</a>
 </li>
 </ul>
 <div class="common-btn">
-<a class="login-btn" href="login.html">
+<a class="login-btn" href="login.php">
 <i class="icofont-plus-square"></i>
 Login
 </a>
-<a class="sign-up-btn" href="create-account.html">
+<a class="sign-up-btn" href="create-account.php">
 <i class="icofont-user-alt-4"></i>
 Sign Up
 </a>
@@ -189,15 +189,15 @@ Sign Up
 <div class="d-table-cell">
 <div class="container">
 <div class="page-title-text">
-<h2>Profile</h2>
+<h2>Company List</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>
 <i class="icofont-simple-right"></i>
 </li>
-<li>Profile</li>
+<li>Company List</li>
 </ul>
 </div>
 </div>
@@ -206,198 +206,116 @@ Sign Up
 </div>
 
 
-<div class="dashboard-area pt-100">
+<section class="companies-area companies-area-two pt-100">
 <div class="container">
-<div class="create-information">
-<form>
-<h3>Basic Information</h3>
-<div class="create-information-btn">
-<a href="#">Upload Cover Photo</a>
-<a href="#">Upload Your CV</a>
-</div>
-<div class="row"> 
-<div class="col-lg-6">
-<div class="form-group">
-<label>Your Name</label>
-<input type="text" class="form-control" placeholder="Aikin Ward">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Your Email</label>
-<input type="email" class="form-control" placeholder="hello@gable.com">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Date of Birth</label>
-<input type="text" class="form-control" placeholder="21 / 2 / 1997">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Your Phone</label>
-<input type="text" class="form-control" placeholder="+12345678910">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Job Title</label>
-<input type="text" class="form-control" placeholder="UX/UI Designer">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Address:</label>
-<input type="text" class="form-control" placeholder="210-27 Quadra, Market Street, Victoria Canada">
-</div>
-</div>
-<div class="col-lg-12">
-<div class="form-group">
-<div class="gender-area">
-<span>Gender</span>
-<input type="radio" name="gender" id="male" value="male" checked>
-<label for="male">Male</label>
-<input type="radio" name="gender" id="female" value="female">
-<label for="female">Female</label>
-</div>
-</div>
-</div>
-<div class="col-lg-12">
-<div class="form-group">
-<label>Description</label>
-<textarea id="your_message" class="form-control" rows="8" placeholder="Type Here"></textarea>
-</div>
-</div>
-</div>
-</form>
-</div>
-<div class="create-education create-education-two">
-<div class="create-education-wrap">
-<div class="create-education-left">
-<h3>Education</h3>
-</div>
-<div class="create-education-right">
-<a href="#">Edit</a>
-<a href="#">Add Education</a>
-</div>
-</div>
-<form>
 <div class="row">
-<div class="col-lg-6">
-<div class="form-group">
-<label>Title</label>
- <input type="text" class="form-control" placeholder="Under Graduate">
+<div class="col-sm-6 col-lg-3">
+<div class="companies-item wow fadeInUp" data-wow-delay=".3s">
+<img src="assets/img/home-1/companies/1.png" alt="Companies">
+<h3>
+<a href="company-details.php">Winbrans.com</a>
+</h3>
+<p>
+<i class="icofont-location-pin"></i>
+Quadra, Street, Canada
+</p>
+<a class="companies-btn" href="create-account.php">Hiring</a>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Degree</label>
-<input type="text" class="form-control" placeholder="BSC in Computer Science">
+<div class="col-sm-6 col-lg-3">
+<div class="companies-item wow fadeInUp" data-wow-delay=".4s">
+<img src="assets/img/home-1/companies/2.png" alt="Companies">
+<h3>
+<a href="company-details.php">Infiniza.com</a>
+</h3>
+<p>
+<i class="icofont-location-pin"></i>
+North Street, California
+</p>
+<a class="companies-btn" href="create-account.php">Hiring</a>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Institute</label>
-<input type="text" class="form-control" placeholder="Gable University of Design & Arts">
+<div class="col-sm-6 col-lg-3">
+<div class="companies-item wow fadeInUp" data-wow-delay=".5s">
+<img src="assets/img/home-1/companies/3.png" alt="Companies">
+<h3>
+<a href="company-details.php">Glovibo.com</a>
+</h3>
+<p>
+<i class="icofont-location-pin"></i>
+Barming Road, UK
+</p>
+<a class="companies-btn" href="create-account.php">Hiring</a>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Year</label>
-<input type="text" class="form-control" placeholder="2016-2019">
+<div class="col-sm-6 col-lg-3">
+<div class="companies-item wow fadeInUp" data-wow-delay=".6s">
+<img src="assets/img/home-1/companies/4.png" alt="Companies">
+<h3>
+<a href="company-details.php">Bizotic.com</a>
+</h3>
+<p>
+<i class="icofont-location-pin"></i>
+Washington, New York
+</p>
+<a class="companies-btn" href="create-account.php">Hiring</a>
 </div>
 </div>
-</div>
-</form>
-</div>
-<div class="create-skills">
-<div class="create-skills-wrap">
-<div class="create-skills-left">
-<h3>Skill</h3>
-</div>
-<div class="create-skills-right">
-<a href="#">Edit</a>
-<a href="#">Add Skill</a>
-</div>
-</div>
-<form>
-<div class="row">
-<div class="col-lg-6">
-<div class="form-group">
-<label>Title</label>
-<input type="text" class="form-control" placeholder="Frontend Design">
+<div class="col-sm-6 col-lg-3">
+<div class="companies-item wow fadeInUp" data-wow-delay=".3s">
+<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/companies/5.png" alt="Companies">
+<h3>
+<a href="company-details.php">Bethpage.com</a>
+</h3>
+<p>
+<i class="icofont-location-pin"></i>
+Las, Street, Canada
+</p>
+<a class="companies-btn" href="create-account.php">Hiring</a>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="skill">
-<p>Percentage</p>
-<div class="skill-bar skill1 skill3 wow slideInLeft animated">
-<span class="skill-count1">60%</span>
+<div class="col-sm-6 col-lg-3">
+<div class="companies-item wow fadeInUp" data-wow-delay=".4s">
+<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/companies/6.png" alt="Companies">
+<h3>
+<a href="company-details.php">Hofstra.com</a>
+</h3>
+<p>
+<i class="icofont-location-pin"></i>
+South Street, London
+</p>
+<a class="companies-btn" href="create-account.php">Hiring</a>
 </div>
 </div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Name</label>
-<input type="text" class="form-control" placeholder="UX/UI Design">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="skill">
-<p>Percentage</p>
-<div class="skill-bar skill1 skill4 wow slideInLeft animated">
-<span class="skill-count1">95%</span>
-</div>
+<div class="col-sm-6 col-lg-3">
+ <div class="companies-item wow fadeInUp" data-wow-delay=".5s">
+<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/companies/7.png" alt="Companies">
+<h3>
+<a href="company-details.php">Mount.com</a>
+</h3>
+<p>
+<i class="icofont-location-pin"></i>
+West Road, Cardiff
+</p>
+<a class="companies-btn" href="create-account.php">Hiring</a>
 </div>
 </div>
-</div>
-</form>
-</div>
-<div class="create-skills">
-<div class="create-skills-wrap">
-<div class="create-skills-left">
-<h3>Social Links</h3>
-</div>
-<div class="create-skills-right">
-<a href="#">Edit</a>
-<a href="#">Add New</a>
-</div>
-</div>
-<form>
-<div class="row">
-<div class="col-lg-6">
-<div class="form-group">
-<label>Facebook</label>
-<input type="text" class="form-control" placeholder="https://www.facebook,com">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Instagram</label>
-<input type="text" class="form-control" placeholder="https://www.instagram,com">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Linedin</label>
-<input type="text" class="form-control" placeholder="https://www.linkedin,com">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Dribble</label>
-<input type="text" class="form-control" placeholder="https://www.dribble,com">
-</div>
-</div>
-</div>
-</form>
-</div>
-<div class="text-left">
-<button type="submit" class="btn create-ac-btn">Save</button>
+<div class="col-sm-6 col-lg-3">
+<div class="companies-item wow fadeInUp" data-wow-delay=".6s">
+<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/companies/8.png" alt="Companies">
+<h3>
+<a href="company-details.php">Protiviti.com</a>
+</h3>
+<p>
+<i class="icofont-location-pin"></i>
+New DC, America
+</p>
+<a class="companies-btn" href="create-account.php">Hiring</a>
 </div>
 </div>
 </div>
+</div>
+</section>
 
 
 <footer>
@@ -445,7 +363,7 @@ Subscribe
 </a>
 </li>
 <li>
-<a href="https://www.instagram.com" target="_blank">
+ <a href="https://www.instagram.com" target="_blank">
 <i class="icofont-instagram"></i>
 </a>
 </li>
@@ -503,25 +421,25 @@ Networking
 <h3>Quick Links</h3>
 <ul>
 <li>
-<a href="index.html">
+<a href="index.php">
 <i class="icofont-simple-right"></i>
 Home
 </a>
 </li>
 <li>
-<a href="about.html">
+<a href="about.php">
 <i class="icofont-simple-right"></i>
- About Us
+About Us
 </a>
 </li>
 <li>
-<a href="blog.html">
+<a href="blog.php">
 <i class="icofont-simple-right"></i>
 Blogs
 </a>
 </li>
 <li>
-<a href="company-list.html">
+<a href="company-list.php">
 <i class="icofont-simple-right"></i>
 Companies
 </a>
@@ -553,8 +471,8 @@ Testimonials
 </li>
 <li>
 <i class="icofont-ui-email"></i>
-<a href="../../cdn-cgi/l/email-protection.html#a9c1ccc5c5c6e9cec8cbc5cc87cac6c4">
-<span class="__cf_email__" data-cfemail="aec6cbc2c2c1eec9cfccc2cb80cdc1c3">[email&#160;protected]</span>
+<a href="../../cdn-cgi/l/email-protection.php#751d1019191a3512141719105b161a18">
+<span class="__cf_email__" data-cfemail="e9818c858586a98e888b858cc78a8684">[email&#160;protected]</span>
 </a>
 </li>
 </ul>
@@ -573,13 +491,13 @@ Testimonials
 <div class="copyright-item copyright-right">
 <ul>
 <li>
-<a href="terms-and-conditions.html" target="_blank">Terms & Conditions</a>
+<a href="terms-and-conditions.php" target="_blank">Terms & Conditions</a>
 </li>
 <li>
 <span>-</span>
 </li>
 <li>
-<a href="privacy-policy.html" target="_blank">Privacy Policy</a>
+<a href="privacy-policy.php" target="_blank">Privacy Policy</a>
 </li>
 </ul>
 </div>
@@ -592,7 +510,7 @@ Testimonials
 
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bootstrap.bundle.min.js"></script>
- 
+
 <script src="assets/js/jquery.meanmenu.js"></script>
 
 <script src="assets/js/jquery.mixitup.min.js"></script>

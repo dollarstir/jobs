@@ -47,7 +47,7 @@
 <div class="navbar-area fixed-top">
 
 <div class="mobile-nav">
-<a href="index.html" class="logo">
+<a href="index.php" class="logo">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 </div>
@@ -55,7 +55,7 @@
 <div class="main-nav">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img src="assets/img/logo.png" alt="Logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -64,33 +64,33 @@
 <a href="#" class="nav-link dropdown-toggle">Home <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="index.html" class="nav-link">Home Page 1</a>
+<a href="index.php" class="nav-link">Home Page 1</a>
 </li>
 <li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Page 2</a>
+<a href="index-2.php" class="nav-link">Home Page 2</a>
 </li>
 <li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Page 3</a>
+<a href="index-3.php" class="nav-link">Home Page 3</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="about.html" class="nav-link">About</a>
+<a href="about.php" class="nav-link">About</a>
 </li>
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle active">Jobs <i class="icofont-simple-down"></i></a>
+<a href="#" class="nav-link dropdown-toggle">Jobs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="job-list.html" class="nav-link">Job List</a>
+<a href="job-list.php" class="nav-link">Job List</a>
 </li>
 <li class="nav-item">
-<a href="favourite-job.html" class="nav-link">Favourite Jobs</a>
+<a href="favourite-job.php" class="nav-link">Favourite Jobs</a>
 </li>
 <li class="nav-item">
-<a href="job-details.html" class="nav-link">Job Details</a>
+<a href="job-details.php" class="nav-link">Job Details</a>
 </li>
 <li class="nav-item">
-<a href="post-a-job.html" class="nav-link active">Post A Job</a>
+<a href="post-a-job.php" class="nav-link">Post A Job</a>
 </li>
 </ul>
 </li>
@@ -98,57 +98,60 @@
 <a href="#" class="nav-link dropdown-toggle">Candidates <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="candidate-list.html" class="nav-link">Candidate List</a>
+<a href="candidate-list.php" class="nav-link">Candidate List</a>
 </li>
 <li class="nav-item">
-<a href="candidate-details.html" class="nav-link">Candidate Details</a>
+<a href="candidate-details.php" class="nav-link">Candidate Details</a>
 </li>
 <li class="nav-item">
-<a href="single-resume.html" class="nav-link">Single Resume</a>
+<a href="single-resume.php" class="nav-link">Single Resume</a>
 </li>
 <li class="nav-item">
-<a href="submit-resume.html" class="nav-link">Submit Resume</a>
+<a href="submit-resume.php" class="nav-link">Submit Resume</a>
 </li>
 <li class="nav-item">
-<a href="pricing.html" class="nav-link">Pricing</a>
+<a href="pricing.php" class="nav-link">Pricing</a>
 </li>
 <li class="nav-item">
-<a href="dashboard.html" class="nav-link">Candidate dashboard</a>
+<a href="dashboard.php" class="nav-link">Candidate dashboard</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">Pages <i class="icofont-simple-down"></i></a>
+<a href="#" class="nav-link dropdown-toggle active">Pages <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="company-list.html" class="nav-link">Company List</a>
+<a href="company-list.php" class="nav-link">Company List</a>
 </li>
 <li class="nav-item">
-<a href="company-details.html" class="nav-link">Company Details</a>
+<a href="company-details.php" class="nav-link active">Company Details</a>
 </li>
 <li class="nav-item">
-<a href="login.html" class="nav-link">Login Page</a>
+<a href="login.php" class="nav-link">Login Page</a>
 </li>
 <li class="nav-item">
-<a href="create-account.html" class="nav-link">Create Account Page</a>
+<a href="create-account.php" class="nav-link">Create Account Page</a>
 </li>
 <li class="nav-item">
-<a href="profile.html" class="nav-link">Profile</a>
+<a href="profile.php" class="nav-link">Profile</a>
 </li>
 <li class="nav-item">
- <a href="single-profile.html" class="nav-link">Single Profile</a>
+ <a href="single-profile.php" class="nav-link">Single Profile</a>
 </li>
 <li class="nav-item">
-<a href="404.html" class="nav-link">404</a>
+<a href="#" class="nav-link">Information</a>
 </li>
 <li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
+<a href="404.php" class="nav-link">404</a>
 </li>
 <li class="nav-item">
-<a href="terms-and-conditions.html" class="nav-link">Terms and Conditions</a>
+<a href="faq.php" class="nav-link">FAQ</a>
 </li>
 <li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+<a href="terms-and-conditions.php" class="nav-link">Terms and Conditions</a>
+</li>
+<li class="nav-item">
+<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
 </li>
 </ul>
 </li>
@@ -156,23 +159,23 @@
 <a href="#" class="nav-link dropdown-toggle">Blogs <i class="icofont-simple-down"></i></a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog.html" class="nav-link">Blog</a>
+<a href="#" class="nav-link">Blog</a>
 </li>
 <li class="nav-item">
-<a href="blog-details.html" class="nav-link">Blog Details</a>
+<a href="#" class="nav-link">Blog Details</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="contact.html" class="nav-link">Contact</a>
+<a href="contact.php" class="nav-link">Contact</a>
 </li>
 </ul>
 <div class="common-btn">
-<a class="login-btn" href="login.html">
+<a class="login-btn" href="login.php">
 <i class="icofont-plus-square"></i>
 Login
 </a>
-<a class="sign-up-btn" href="create-account.html">
+<a class="sign-up-btn" href="create-account.php">
 <i class="icofont-user-alt-4"></i>
 Sign Up
 </a>
@@ -189,15 +192,15 @@ Sign Up
 <div class="d-table-cell">
 <div class="container">
 <div class="page-title-text">
-<h2>Post A Job</h2>
+<h2>Company Details</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>
 <i class="icofont-simple-right"></i>
 </li>
-<li>Post A Job</li>
+<li>Company Details</li>
 </ul>
 </div>
 </div>
@@ -206,94 +209,145 @@ Sign Up
 </div>
 
 
-<div class="post-job-area pt-100">
+<div class="company-details-area pt-100">
 <div class="container">
-<div class="post-job-item">
-<form>
-<div class="post-job-heading">
-<h2>Post Your Job</h2>
-</div>
 <div class="row">
-<div class="col-lg-6">
-<div class="form-group">
- <label>Job Title</label>
-<input type="text" class="form-control" placeholder="UX/UI Designer">
+<div class="col-lg-8">
+<div class="company-details-item">
+<div class="company-details-logo">
+<img src="assets/img/home-1/companies/1.png" alt="Logo">
+<div class="company-logo-inner">
+<h3>Winbrans.com</h3>
+<p><i class="icofont-location-pin"></i>210-27 Quadra, Market Street, Victoria Canada</p>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Job Category</label>
-<div class="job-category-area">
-<select class="form-select" aria-label="Default select example">
-<option>IT & Technology</option>
-<option>Web Developer</option>
-<option>UX/UI Design</option>
-<option>SEO</option>
-</select>
+<div class="company-details-share">
+<span>Share:</span>
+<ul>
+<li>
+<a href="https://www.facebook.com/" target="_blank">
+<i class="icofont-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://www.twitter.com/" target="_blank">
+<i class="icofont-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/" target="_blank">
+<i class="icofont-instagram"></i>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/" target="_blank">
+<i class="icofont-linkedin"></i>
+</a>
+</li>
+</ul>
+</div>
+<div class="company-details-find">
+<h3>Find Us:</h3>
+<ul>
+<li>
+<a href="#">
+<i class="icofont-web"></i>
+http://gable.com
+</a>
+</li>
+<li>
+<a href="#">
+<i class="icofont-facebook"></i>
+gable.com
+</a>
+</li>
+<li>
+<a href="#">
+<i class="icofont-linkedin"></i>
+gable.com
+</a>
+</li>
+<li>
+<a href="#">
+<i class="icofont-twitter"></i>
+gable.com
+</a>
+</li>
+<li>
+<a href="#">
+<i class="icofont-google-plus"></i>
+gable.com
+</a>
+</li>
+</ul>
+</div>
+<div class="company-details-description">
+<h3>Description</h3>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+</div>
+<div class="text-center">
+<a class="job-details-btn" href="create-account.php">Apply Now</a>
 </div>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Company Name</label>
-<input type="text" class="form-control" placeholder="Winbrans.com">
+<div class="col-lg-4">
+<div class="company-details-item">
+<div class="single-resume-category">
+<h3>Job Categories</h3>
+<ul>
+<li>
+<a href="#">Web Developer</a>
+<span>(5)</span>
+</li>
+<li>
+<a href="#">Web Designer</a>
+<span>(2)</span>
+</li>
+<li>
+<a href="#">UX/UI Designer</a>
+<span>(7)</span>
+</li>
+<li>
+<a href="#">Marketing</a>
+<span>(0)</span>
+</li>
+<li>
+<a href="#">SEO</a>
+<span>(1)</span>
+</li>
+<li>
+<a href="#">Networking</a>
+<span>(0)</span>
+</li>
+</ul>
+</div>
+<div class="single-resume-category single-resume-types">
+<h3>Job Locations</h3>
+<ul>
+<li>
+<a href="#">New York</a>
+<span>(4)</span>
+</li>
+<li>
+<a href="#">Washington</a>
+<span>(5)</span>
+</li>
+<li>
+<a href="#">Chicago</a>
+<span>(3)</span>
+</li>
+<li>
+<a href="#">Houston</a>
+<span>(1)</span>
+</li>
+<li>
+<a href="#">Los Angeles</a>
+<span>(0)</span>
+</li>
+</ul>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="form-group">
-<div class="job-currency-area">
-<label>Company Name</label>
-<input type="text" class="form-control" placeholder="Winbrans.com">
-<select class="form-select" aria-label="Default select example">
-<option>$USD</option>
-<option>EURO</option>
-<option>POUND</option>
-</select>
 </div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Vacancies</label>
-<input type="text" class="form-control" placeholder="10">
-</div>
-</div>
-<div class="col-lg-6">
-<div class="form-group">
-<label>Location</label>
-<input type="text" class="form-control" placeholder="210-27 Quadra, Market Street, Victoria Canada">
-</div>
-</div>
-<div class="col-lg-12">
-<div class="form-group">
-<div class="job-type-area">
-<span>Job Type</span>
-<div class="form-check form-check-inline">
-<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" checked>
-<label class="form-check-label" for="inlineRadio1">Full Time</label>
-</div>
-<div class="form-check form-check-inline">
-<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-<label class="form-check-label" for="inlineRadio2">Part Time</label>
-</div>
-<div class="form-check form-check-inline">
- <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option2">
-<label class="form-check-label" for="inlineRadio3">Intern</label>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-12">
-<div class="form-group">
-<label>Job Description</label>
-<textarea id="your_message" rows="8" class="form-control"></textarea>
-</div>
-</div>
-</div>
-<div class="text-left">
-<button type="submit" class="btn create-ac-btn">Post</button>
-</div>
-</form>
 </div>
 </div>
 </div>
@@ -396,31 +450,31 @@ Networking
 </div>
 </div>
 </div>
- <div class="col-sm-6 col-lg-3">
+<div class="col-sm-6 col-lg-3">
 <div class="footer-item">
 <div class="footer-category">
 <h3>Quick Links</h3>
 <ul>
 <li>
-<a href="index.html">
+<a href="index.php">
 <i class="icofont-simple-right"></i>
 Home
 </a>
 </li>
 <li>
-<a href="about.html">
+<a href="about.php">
 <i class="icofont-simple-right"></i>
 About Us
 </a>
 </li>
 <li>
-<a href="blog.html">
+<a href="blog.php">
 <i class="icofont-simple-right"></i>
 Blogs
 </a>
 </li>
 <li>
-<a href="company-list.html">
+<a href="company-list.php">
 <i class="icofont-simple-right"></i>
 Companies
 </a>
@@ -452,8 +506,8 @@ Testimonials
 </li>
 <li>
 <i class="icofont-ui-email"></i>
-<a href="../../cdn-cgi/l/email-protection.html#f39b969f9f9cb39492919f96dd909c9e">
-<span class="__cf_email__" data-cfemail="771f121b1b18371016151b125914181a">[email&#160;protected]</span>
+<a href="../../cdn-cgi/l/email-protection.php#79111c151516391e181b151c571a1614">
+<span class="__cf_email__" data-cfemail="345c5158585b7453555658511a575b59">[email&#160;protected]</span>
 </a>
 </li>
 </ul>
@@ -464,7 +518,7 @@ Testimonials
 <div class="copyright-area">
 <div class="row">
 <div class="col-lg-6">
-<div class="copyright-item">
+ <div class="copyright-item">
 <p>Copyright © <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Gable. Designed By <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
 </div>
 </div>
@@ -472,13 +526,13 @@ Testimonials
 <div class="copyright-item copyright-right">
 <ul>
 <li>
-<a href="terms-and-conditions.html" target="_blank">Terms & Conditions</a>
+<a href="terms-and-conditions.php" target="_blank">Terms & Conditions</a>
 </li>
 <li>
 <span>-</span>
 </li>
 <li>
-<a href="privacy-policy.html" target="_blank">Privacy Policy</a>
+<a href="privacy-policy.php" target="_blank">Privacy Policy</a>
 </li>
 </ul>
 </div>
