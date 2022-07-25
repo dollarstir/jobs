@@ -147,7 +147,7 @@
     <section class="category-area category-area-two pt-100 pb-70">
       <div class="container">
         <div class="section-title">
-          <h2>Choose Your Desire Category</h2>
+          <h2>Job Category</h2>
         </div>
         <div class="row">
           <div class="col-sm-4 col-lg-3">
@@ -264,9 +264,9 @@
                 <div class="job-inner align-items-center">
                   <div class="job-inner-left">
                     <h3>
-                      <a href="job-details.php">UI/UX Designer</a>
+                      <a href="job-details.html">UI/UX Designer</a>
                     </h3>
-                    <a class="company" href="company-details.php"
+                    <a class="company" href="company-details.html"
                       >Winbrans.com</a
                     >
                     <ul>
@@ -282,7 +282,9 @@
                   </div>
                   <div class="job-inner-right">
                     <ul>
-                      
+                      <li>
+                        <a href="create-account.html">Apply</a>
+                      </li>
                       <li>
                         <span>Full Time</span>
                       </li>
@@ -296,8 +298,8 @@
                 <img src="assets/img/home-1/jobs/2.png" alt="Job" />
                 <div class="job-inner align-items-center">
                   <div class="job-inner-left">
-                    <h3><a href="job-details.php">Android Developer</a></h3>
-                    <a class="company" href="company-details.php"
+                    <h3><a href="job-details.html">Android Developer</a></h3>
+                    <a class="company" href="company-details.html"
                       >Infiniza.com</a
                     >
                     <ul>
@@ -313,7 +315,9 @@
                   </div>
                   <div class="job-inner-right">
                     <ul>
-                      
+                      <li>
+                        <a href="create-account.html">Apply</a>
+                      </li>
                       <li>
                         <span>Part Time</span>
                       </li>
@@ -328,9 +332,9 @@
                 <div class="job-inner align-items-center">
                   <div class="job-inner-left">
                     <h3>
-                      <a href="job-details.php">Senior Manager</a>
+                      <a href="job-details.html">Senior Manager</a>
                     </h3>
-                    <a class="company" href="company-details.php"
+                    <a class="company" href="company-details.html"
                       >Glovibo.com</a
                     >
                     <ul>
@@ -346,7 +350,9 @@
                   </div>
                   <div class="job-inner-right">
                     <ul>
-                      
+                      <li>
+                        <a href="create-account.html">Apply</a>
+                      </li>
                       <li>
                         <span>Intern</span>
                       </li>
@@ -361,9 +367,9 @@
                 <div class="job-inner align-items-center">
                   <div class="job-inner-left">
                     <h3>
-                      <a href="job-details.php">Product Designer</a>
+                      <a href="job-details.html">Product Designer</a>
                     </h3>
-                    <a class="company" href="company-details.php"
+                    <a class="company" href="company-details.html"
                       >Bizotic.com</a
                     >
                     <ul>
@@ -379,7 +385,9 @@
                   </div>
                   <div class="job-inner-right">
                     <ul>
-                      
+                      <li>
+                        <a href="create-account.html">Apply</a>
+                      </li>
                       <li>
                         <span>Part Time</span>
                       </li>
@@ -394,9 +402,9 @@
                 <div class="job-inner align-items-center">
                   <div class="job-inner-left">
                     <h3>
-                      <a href="job-details.php">Digital Marketer</a>
+                      <a href="job-details.html">Digital Marketer</a>
                     </h3>
-                    <a class="company" href="company-details.php"
+                    <a class="company" href="company-details.html"
                       >Hotelzo.com</a
                     >
                     <ul>
@@ -412,7 +420,9 @@
                   </div>
                   <div class="job-inner-right">
                     <ul>
-                      
+                      <li>
+                        <a href="create-account.html">Apply</a>
+                      </li>
                       <li>
                         <span>Intern</span>
                       </li>
@@ -427,9 +437,9 @@
                 <div class="job-inner align-items-center">
                   <div class="job-inner-left">
                     <h3>
-                      <a href="job-details.php">Sales Manager</a>
+                      <a href="job-details.html">Sales Manager</a>
                     </h3>
-                    <a class="company" href="company-details.php"
+                    <a class="company" href="company-details.html"
                       >Gozuto.com</a
                     >
                     <ul>
@@ -445,7 +455,9 @@
                   </div>
                   <div class="job-inner-right">
                     <ul>
-                      
+                      <li>
+                        <a href="create-account.html">Apply</a>
+                      </li>
                       <li>
                         <span>Part Time</span>
                       </li>
@@ -460,9 +472,9 @@
                 <div class="job-inner align-items-center">
                   <div class="job-inner-left">
                     <h3>
-                      <a href="job-details.php">Web Developer</a>
+                      <a href="job-details.html">Web Developer</a>
                     </h3>
-                    <a class="company" href="company-details.php">Udiza.com</a>
+                    <a class="company" href="company-details.html">Udiza.com</a>
                     <ul>
                       <li>
                         <i class="icofont-money-bag"></i>
@@ -476,7 +488,9 @@
                   </div>
                   <div class="job-inner-right">
                     <ul>
-                      
+                      <li>
+                        <a href="create-account.html">Apply</a>
+                      </li>
                       <li>
                         <span>Full Time</span>
                       </li>
@@ -491,9 +505,9 @@
                 <div class="job-inner align-items-center">
                   <div class="job-inner-left">
                     <h3>
-                      <a href="job-details.php">SEO</a>
+                      <a href="job-details.html">SEO</a>
                     </h3>
-                    <a class="company" href="company-details.php">Oqota.com</a>
+                    <a class="company" href="company-details.html">Oqota.com</a>
                     <ul>
                       <li>
                         <i class="icofont-money-bag"></i>
@@ -507,7 +521,9 @@
                   </div>
                   <div class="job-inner-right">
                     <ul>
-                      
+                      <li>
+                        <a href="create-account.html">Apply</a>
+                      </li>
                       <li>
                         <span>Part Time</span>
                       </li>
@@ -657,7 +673,7 @@
     <section class="companies-area ptb-100">
       <div class="container">
         <div class="section-title">
-          <h2>Popular Companies</h2>
+          <h2>Top Employers</h2>
         </div>
         <div class="companies-slider owl-theme owl-carousel">
           <div class="companies-item">
@@ -796,6 +812,148 @@
       </div>
     </section>
 
+    <section class="companies-area ptb-100">
+      <div class="container">
+        <div class="section-title">
+          <h2>Partner Universities</h2>
+        </div>
+        <div class="companies-slider owl-theme owl-carousel">
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/1.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Winbrans.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              Quadra, Street, Canada
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/2.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Infiniza.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              North Street, California
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/3.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Glovibo.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              Barming Road, UK
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/4.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Bizotic.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              Washington, New York
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/1.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Winbrans.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              Quadra, Street, Canada
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/2.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Infiniza.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              North Street, California
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/3.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Glovibo.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              Barming Road, UK
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/4.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Bizotic.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              Washington, New York
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/1.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Winbrans.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              Quadra, Street, Canada
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/2.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Infiniza.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              North Street, California
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/3.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Glovibo.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              Barming Road, UK
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+          <div class="companies-item">
+            <img src="assets/img/home-1/companies/4.png" alt="Companies" />
+            <h3>
+              <a href="company-details.php">Bizotic.com</a>
+            </h3>
+            <p>
+              <i class="icofont-location-pin"></i>
+              Washington, New York
+            </p>
+            <!-- <a class="companies-btn" href="create-account.php">Hiring</a> -->
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- <div class="popular-area pt-100 pb-70">
       <div class="container">
         <div class="row align-items-center">
@@ -859,7 +1017,7 @@
     <section class="profile-area pb-100">
       <div class="container">
         <div class="section-title">
-          <h2>Featured Profile</h2>
+          <h2>Top candidates</h2>
         </div>
         <div class="profile-slider owl-theme owl-carousel">
           <div class="profile-item">

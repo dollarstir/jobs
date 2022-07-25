@@ -129,10 +129,10 @@
                                         <a href="company-details.php" class="nav-link">Company Details</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="login.php" class="nav-link active">Login Page</a>
+                                        <a href="login.php" class="nav-link">Login Page</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="create-account.php" class="nav-link">Create Account Page</a>
+                                        <a href="create-account.php" class="nav-link active">Create Account Page</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="profile.php" class="nav-link">Profile</a>
@@ -191,7 +191,7 @@
             <div class="d-table-cell">
                 <div class="container">
                     <div class="page-title-text">
-                        <h2>Log In</h2>
+                        <h2>Create Account</h2>
                         <ul>
                             <li>
                                 <a href="index.php">Home</a>
@@ -199,7 +199,7 @@
                             <li>
                                 <i class="icofont-simple-right"></i>
                             </li>
-                            <li>Log In</li>
+                            <li>Create Account</li>
                         </ul>
                     </div>
                 </div>
@@ -208,70 +208,332 @@
     </div>
 
 
-    <div class="login-area pt-100">
+    <div class="create-account-area pt-100 pb-100">
         <div class="container">
-            <h2>Login Your Account</h2>
-            <div class="login-wrap">
-                <div class="row">
-                    <div class="col-sm-6 col-lg-6">
-                        <div class="jobseeker-item">
-                            <div class="jobseeker-icon">
-                                <i class="flaticon-job-search"></i>
+            <!-- <div class="create-photo">
+                <div class="already-create">
+                    <span>Already create an account?</span>
+                    <a href="#">Sign In</a>
+                </div>
+                <form>
+                    <div class="row align-items-center">
+                        <div class="col-lg-4">
+                            <div class="create-photo-item">
+                                <div class="create-photo-left">
+                                    <div class="d-table">
+                                        <div class="d-table-cell">
+                                            <div class="form-group">
+                                                <i class="icofont-photobucket"></i>
+                                                <input type="file" class="form-control-file">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="jobseeker-inner">
-                                <span>Candidate</span>
-                                <h3>Login as a Candidate</h3>
+                        </div>
+                        <div class="col-lg-8">
+                            <div class="create-photo-item">
+                                <div class="create-photo-right">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Your Name Here">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Profession">
+                                    </div>
+                                    <div class="text-right">
+                                        <button type="submit" class="btn create-photo-btn">Done</button>
+                                    </div>
+                                </div>
                             </div>
-                            <a href="login.php">Get Started
-                                <i class="icofont-arrow-right"></i>
-                            </a>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-lg-6">
-                        <div class="jobseeker-item">
-                            <div class="jobseeker-icon">
-                                <i class="flaticon-recruitment"></i>
+                </form>
+            </div> -->
+            <div class="create-information">
+                <form>
+                    <h3>Job Information</h3>
+                    <div class="create-information-btn">
+                        <a href="#">Upload Cover Photo</a>
+                        <a href="#">Upload Your CV</a>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Job Title</label>
+                                <input type="text" class="form-control">
                             </div>
-                            <div class="jobseeker-inner">
-                                <span>Employer</span>
-                                <h3>Login as a Employer</h3>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Job Type</label>
+                                <input type="text" class="form-control">
                             </div>
-                            <a href="login.php">Get Started
-                                <i class="icofont-arrow-right"></i>
-                            </a>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Request Extra Document</label>
+                                <div class="create-information-btn">
+                                    <!-- <a href="#">Upload Cover Photo</a> -->
+                                    <a href="#">Upload Your Document</a>
+                                </div>
+                                <!-- <input type="text" class="form-control"> -->
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Salary Range</label>
+                                <!-- <select name="salary" id="salary">
+
+                                    <option value="2000-5000<">2000-5000</option>
+                                </select> -->
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Experience</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Qualification Required</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Job Location</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <!-- <div class="col-lg-12">
+                            <div class="form-group">
+                                <div class="gender-area">
+                                    <span>Gender</span>
+                                    <input type="radio" name="gender" id="male" value="male" checked>
+                                    <label for="male">Male</label>
+                                    <input type="radio" name="gender" id="female" value="female">
+                                    <label for="female">Female</label>
+                                </div>
+                            </div>
+                        </div> -->
+                        <div class="col-lg-12">
+                            <div class="form-group">
+                                <label>Job Description</label>
+                                <textarea id="your_message" class="form-control" rows="8"></textarea>
+                            </div>
+                        </div>
+
+                        <section class="companies-area ptb-100">
+                            <div class="container">
+                                <div class="section-title">
+                                    <h2>Packages</h2>
+                                </div>
+                                <div class="companies-slider owl-theme owl-carousel">
+                                    <div class="companies-item">
+                                        <img src="assets/img/home-1/companies/1.png" alt="Companies" />
+                                        <h3>
+                                            <a href="company-details.php">Basic - Free</a>
+                                        </h3>
+                                        <p>
+                                            <!-- <i class="icofont-check"></i> -->
+                                            What's included
+                                        </p>
+                                        <p>
+                                        <p>
+                                            <i class="icofont-check"></i>
+                                            Reach out to thousands of prospective applicants
+                                        </p>
+                                        <p>
+                                            <i class="icofont-check"></i>
+                                            Post up to 2 vacancies per month for free
+                                        </p>
+                                        <a class="companies-btn" href="create-account.php">Pick Package</a>
+                                    </div>
+                                    <div class="companies-item">
+                                        <img src="assets/img/home-1/companies/2.png" alt="Companies" />
+                                        <h3>
+                                            <a href="company-details.php">Standard - Best Value</a>
+                                        </h3>
+                                        <h2>
+                                            <!-- <i class="icofont-check"></i> -->
+                                            Gh¢ 50 Per Job Post
+                                        </h2>
+                                        <p>
+                                            <!-- <i class="icofont-check"></i> -->
+                                            What's included
+                                        </p>
+
+
+                                        <p>
+                                            <i class="icofont-check"></i>
+                                            Reach out to targeted prospective applicants
+                                        </p>
+                                        <p>
+                                            <i class="icofont-check"></i>
+                                            Advanced automatic filters of applicants
+                                        </p>
+                                        <p>
+                                            <i class="icofont-check"></i>
+                                            Fast and accurate shortlisting of applicants
+                                        </p>
+                                        <a class="companies-btn" href="create-account.php">Pick Package</a>
+                                    </div>
+
+                                    <div class="companies-item">
+                                        <img src="assets/img/home-1/companies/3.png" alt="Companies" />
+                                        <h3>
+                                            <a href="company-details.php">Professional - Great Value</a>
+                                        </h3>
+                                        <h2>
+                                            <!-- <i class="icofont-check"></i> -->
+                                            Gh¢ 150 Per Month
+                                        </h2>
+                                        <p>
+                                            <!-- <i class="icofont-check"></i> -->
+                                            What's included
+                                        </p>
+                                        <p>
+                                        <p>
+                                            <i class="icofont-check"></i>
+                                        Standard Package
+                                        </p>
+                                        <p>
+                                            <i class="icofont-check"></i>
+                                            Ranking of top 10 applicants
+                                        </p>
+                                        <p>
+                                            <i class="icofont-check"></i>
+                                            Unlimited job posts per month
+                                        </p>
+                                        <p>
+                                            <i class="icofont-check"></i>
+                                            Promotion of company products/services
+                                        </p>
+                                        <a class="companies-btn" href="create-account.php">Pick Package</a>
+                                    </div>
+
+                                </div>
+                        </section>
+
+
+
+                        <div class="create-information-btn">
+                            <a href="#">Show Preview</a>
+                            <a href="#">Post Job</a>
                         </div>
                     </div>
-                </div>
+                </form>
             </div>
-            <form>
-                <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Username, Phone Number or Email">
+            <div class="create-education">
+                <div class="create-education-wrap">
+                    <div class="create-education-left">
+                        <h3>Education</h3>
+                    </div>
+                    <div class="create-education-right">
+                        <a href="#">Add Education</a>
+                    </div>
                 </div>
-                <div class="form-group">
-                    <input type="password" class="form-control" placeholder="Password">
-                </div>
-            </form>
-            <div class="login-sign-in">
-                <a href="#">Forgot Password?</a>
-                <ul>
-                    <li>Don’t Have Account ?</li>
-                    <li>
-                        <a href="create-account.php">Sign Up Here</a>
-                    </li>
-                </ul>
-                <div class="text-center">
-                    <button type="submit" class="btn login-btn">Sign In</button>
-                </div>
+                <form>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Title</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Degree</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Institute</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Year</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                </form>
             </div>
-            <div class="login-social">
-                <a href="https://www.facebook.com/" target="_blank">
-                    <i class="icofont-facebook"></i>
-                    Login With Facebook
-                </a>
-                <a class="login-google" href="https://mail.google.com/" target="_blank">
-                    <i class="icofont-google-plus"></i>
-                    Login With Google
-                </a>
+            <div class="create-skills">
+                <div class="create-skills-wrap">
+                    <div class="create-skills-left">
+                        <h3>Skill</h3>
+                    </div>
+                    <div class="create-skills-right">
+                        <a href="#">Edit</a>
+                        <a href="#">Add Skill</a>
+                    </div>
+                </div>
+                <form>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Title</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="skill">
+                                <p>Percentage</p>
+                                <div class="skill-bar skill1 wow slideInLeft animated">
+                                    <span class="skill-count1">70%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="create-skills">
+                <div class="create-skills-wrap">
+                    <div class="create-skills-left">
+                        <h3>Social Links</h3>
+                    </div>
+                    <div class="create-skills-right">
+                        <a href="#">Edit</a>
+                        <a href="#">Add New</a>
+                    </div>
+                </div>
+                <form>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Facebook</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Instagram</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Linedin</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Dribbble</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="text-left">
+                <button type="submit" class="btn create-ac-btn">Save</button>
             </div>
         </div>
     </div>
@@ -419,7 +681,7 @@
                             <h3>Find Us</h3>
                             <ul>
                                 <li>
-                                    <i class="icofont-location-pin"></i>
+                                    <i class="icofont-check"></i>
                                     28/A Street, New York City
                                 </li>
                                 <li>
@@ -430,8 +692,8 @@
                                 </li>
                                 <li>
                                     <i class="icofont-ui-email"></i>
-                                    <a href="../../cdn-cgi/l/email-protection.php#3b535e5757547b5c5a59575e15585456">
-                                        <span class="__cf_email__" data-cfemail="b2dad7dededdf2d5d3d0ded79cd1dddf">[email&#160;protected]</span>
+                                    <a href="../../cdn-cgi/l/email-protection.php#7b131e1717143b1c1a19171e55181416">
+                                        <span class="__cf_email__" data-cfemail="0f676a6363604f686e6d636a216c6062">[email&#160;protected]</span>
                                     </a>
                                 </li>
                             </ul>

@@ -14,46 +14,49 @@
         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a href="#" class="nav-link">Home</a>
+              <a href="#" class="nav-link">Post a Job</a>
             </li>
 
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a href="employers.php" class="nav-link">Employer</a>
-            </li>
+            </li> -->
 
+            <!-- <li class="nav-item">
+              <a href="about.php" class="nav-link">Candidate</a>
+            </li> -->
             <li class="nav-item">
-              <a href="candidates.php" class="nav-link">Candidate</a>
+              <a href="#" class="nav-link dropdown-toggle">Explore <i class="icofont-simple-down"></i></a>
+              <ul class="dropdown-menu">
+                <li class="nav-item">
+                  <a href="candidates.php" class="nav-link">Candidates</a>
+                </li>
+                <li class="nav-item">
+                  <a href="favourite-job.php" class="nav-link">Top Candidates</a>
+                </li>
+                <li class="nav-item">
+                  <a href="job-details.php" class="nav-link">Other Recruiters</a>
+                </li>
+                <!-- <li class="nav-item">
+                  <a href="post-a-job.php" class="nav-link">Skills Assesment</a>
+                </li>
+                <li class="nav-item">
+                  <a href="post-a-job.php" class="nav-link">CV Review</a>
+                </li> -->
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a href="about.php" class="nav-link">Candidate</a>
             </li>
             <li class="nav-item">
               <a href="#" class="nav-link dropdown-toggle">Resources <i class="icofont-simple-down"></i></a>
               <ul class="dropdown-menu">
                 <li class="nav-item">
-                  <a href="job-list.php" class="nav-link">Blog</a>
+                  <a href="candidate-list.php" class="nav-link">Blog</a>
                 </li>
                 <li class="nav-item">
-                  <a href="favourite-job.php" class="nav-link">Events</a>
+                  <a href="candidate-details.php" class="nav-link">Events</a>
                 </li>
-                <li class="nav-item">
-                  <a href="job-details.php" class="nav-link">Courses</a>
-                </li>
-                <li class="nav-item">
-                  <a href="post-a-job.php" class="nav-link">Skills Assesment</a>
-                </li>
-                <li class="nav-item">
-                  <a href="post-a-job.php" class="nav-link">CV Review</a>
-                </li>
-              </ul>
-            </li>
-            <li class="nav-item">
-              <a href="#" class="nav-link dropdown-toggle">About <i class="icofont-simple-down"></i></a>
-              <ul class="dropdown-menu">
-                <li class="nav-item">
-                  <a href="candidate-list.php" class="nav-link">About Us</a>
-                </li>
-                <li class="nav-item">
-                  <a href="candidate-details.php" class="nav-link">FAQs</a>
-                </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                   <a href="single-resume.php" class="nav-link">Terms and Services</a>
                 </li>
                 <li class="nav-item">
@@ -64,7 +67,7 @@
                 </li>
                 <li class="nav-item">
                   <a href="dashboard.php" class="nav-link">Candidate dashboard</a>
-                </li>
+                </li> -->
               </ul>
             </li>
             <!-- <li class="nav-item">
@@ -114,7 +117,7 @@
               </ul>
             </li> -->
             <li class="nav-item">
-              <a href="contact.php" class="nav-link">Contact</a>
+              <a href="contact.php" class="nav-link">Products</a>
             </li>
           </ul>
           <div class="common-btn">

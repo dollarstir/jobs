@@ -296,27 +296,27 @@ gable.com
 <h3>Job Categories</h3>
 <ul>
 <li>
-<a href="#">Web Developer</a>
+<a href="#">Internship</a>
 <span>(5)</span>
 </li>
 <li>
-<a href="#">Web Designer</a>
+<a href="#">Part-Time</a>
 <span>(2)</span>
 </li>
 <li>
-<a href="#">UX/UI Designer</a>
+<a href="#">Remote</a>
 <span>(7)</span>
 </li>
 <li>
-<a href="#">Marketing</a>
+<a href="#">Freelance</a>
 <span>(0)</span>
 </li>
 <li>
-<a href="#">SEO</a>
+<a href="#">national Service</a>
 <span>(1)</span>
 </li>
 <li>
-<a href="#">Networking</a>
+<a href="#">Volunteer</a>
 <span>(0)</span>
 </li>
 </ul>
