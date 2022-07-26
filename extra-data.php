@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
 
     <link rel="stylesheet" href="assets/css/theme-dark.css">
-    <title>Gable - Job Portal HTML Template</title>
+    <title>Topeople - Job Portal</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
@@ -110,7 +110,7 @@
                             <div class="form-check agree-label">
                                 <input name="gridCheck" value="I agree to the terms and privacy policy." class="form-check-input" type="checkbox" id="gridCheck" required>
                                 <label class="form-check-label" for="gridCheck">
-                                    Accept <a href="https://templates.hibootstrap.com/gable/default/terms-condition.php">Terms & Conditions</a> And <a href="privacy-policy.php">Privacy Policy.</a>
+                                    Accept <a href="https://templates.hibootstrap.com/Topeople/default/terms-condition.php">Terms & Conditions</a> And <a href="privacy-policy.php">Privacy Policy.</a>
                                 </label>
                                 <div class="help-block with-errors gridCheck-error"></div>
                             </div>

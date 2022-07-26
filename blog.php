@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
 
     <link rel="stylesheet" href="assets/css/theme-dark.css">
-    <title>Gable - Job Portal HTML Template</title>
+    <title>Topeople - Job Portal</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
@@ -156,7 +156,7 @@
                     <div class="blog-item wow fadeInUp" data-wow-delay=".3s">
                         <div class="blog-top">
                             <a href="blog-details.php">
-                                <img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/blog/4.jpg" alt="Blog">
+                                <img src="https://templates.hibootstrap.com/Topeople/default/assets/img/home-1/blog/4.jpg" alt="Blog">
                             </a>
                             <span>26 May, 2020</span>
                         </div>
@@ -182,7 +182,7 @@
                     <div class="blog-item wow fadeInUp" data-wow-delay=".4s">
                         <div class="blog-top">
                             <a href="blog-details.php">
-                                <img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/blog/5.jpg" alt="Blog">
+                                <img src="https://templates.hibootstrap.com/Topeople/default/assets/img/home-1/blog/5.jpg" alt="Blog">
                             </a>
                             <span>27 May, 2020</span>
                         </div>
@@ -208,7 +208,7 @@
                     <div class="blog-item wow fadeInUp" data-wow-delay=".5s">
                         <div class="blog-top">
                             <a href="blog-details.php">
-                                <img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/blog/6.jpg" alt="Blog">
+                                <img src="https://templates.hibootstrap.com/Topeople/default/assets/img/home-1/blog/6.jpg" alt="Blog">
                             </a>
                             <span>28 May, 2020</span>
                         </div>

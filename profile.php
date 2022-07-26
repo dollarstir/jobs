@@ -24,7 +24,7 @@
 <link rel="stylesheet" href="assets/css/responsive.css">
 
 <link rel="stylesheet" href="assets/css/theme-dark.css">
-<title>Gable - Job Portal HTML Template</title>
+<title>Topeople - Job Portal</title>
 <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 <body>
@@ -225,7 +225,7 @@ Sign Up
 <div class="col-lg-6">
 <div class="form-group">
 <label>Your Email</label>
-<input type="email" class="form-control" placeholder="hello@gable.com">
+<input type="email" class="form-control" placeholder="hello@Topeople.com">
 </div>
 </div>
 <div class="col-lg-6">
@@ -299,7 +299,7 @@ Sign Up
 <div class="col-lg-6">
 <div class="form-group">
 <label>Institute</label>
-<input type="text" class="form-control" placeholder="Gable University of Design & Arts">
+<input type="text" class="form-control" placeholder="Topeople University of Design & Arts">
 </div>
 </div>
 <div class="col-lg-6">
@@ -566,7 +566,7 @@ Testimonials
 <div class="row">
 <div class="col-lg-6">
 <div class="copyright-item">
-<p>Copyright © <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Gable. Designed By <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
+<p>Copyright © <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Topeople. Designed By <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
 </div>
 </div>
 <div class="col-lg-6">

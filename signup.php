@@ -72,7 +72,7 @@
 
     <div class="login-area pt-100">
         <div class="container">
-            <h2>Login Your Account</h2>
+            <h2>Sign Up Your Account</h2>
             <div class="login-wrap">
                 <div class="row">
                     <div class="col-sm-6 col-lg-6">
@@ -139,7 +139,7 @@
     </div>
 
 
-    <div class="create-account-area pt-100 pb-100">
+    <!-- <div class="create-account-area pt-100 pb-100">
         <div class="container">
             <div class="create-photo">
                 <div class="already-create">
@@ -352,9 +352,9 @@
             </div>
             <div class="text-left">
                 <button type="submit" class="btn create-ac-btn">Save</button>
-            </div>
+            </div> 
         </div>
-    </div>
+    </div>-->
 
 
     <?php include "footer.php" ?>

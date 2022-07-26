@@ -147,9 +147,23 @@
                             <h3>Description</h3>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
                         </div>
-                        <div class="text-center">
-                            <a class="job-details-btn" href="create-account.php">Apply Now</a>
+                        <div class="common-btn">
+                        <a class="sign-up-btn" href="create-account.php">
+                            <!-- <i class="icofont-user-alt-4"></i> -->
+                            Available Jobs
+                        </a>
+                        <a class="sign-up-btn" href="create-account.php">
+                            <!-- <i class="icofont-user-alt-4"></i> -->
+                            Add to Favourite
+                        </a>
+                        <a class="sign-up-btn" href="create-account.php">
+                            <!-- <i class="icofont-user-alt-4"></i> -->
+                            Review Company
+                        </a>
                         </div>
+                        <!-- <div class="text-center">
+                            <a class="job-details-btn" href="create-account.php">Apply Now</a>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-4">

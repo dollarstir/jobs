@@ -54,7 +54,7 @@
             <div class="d-table-cell">
                 <div class="container">
                     <div class="page-title-text">
-                        <h2>Create Account</h2>
+                        <h2>Events</h2>
                         <ul>
                             <li>
                                 <a href="index.php">Home</a>
@@ -62,7 +62,7 @@
                             <li>
                                 <i class="icofont-simple-right"></i>
                             </li>
-                            <li>Create Account</li>
+                            <li>Events</li>
                         </ul>
                     </div>
                 </div>
@@ -72,7 +72,7 @@
 
     <div class="login-area pt-100">
         <div class="container">
-            <h2>Login Your Account</h2>
+            <h2>Sign Up Your Account</h2>
             <div class="login-wrap">
                 <div class="row">
                     <div class="col-sm-6 col-lg-6">
@@ -81,10 +81,10 @@
                                 <i class="flaticon-job-search"></i>
                             </div>
                             <div class="jobseeker-inner">
-                                <span>Candidate</span>
+                                <span>Candidate Events</span>
                                 <h3>SignUp as a Candidate</h3>
                             </div>
-                            <a href="candidate-signup.php">Get Started
+                            <a href="candidate-events.php">Get Started
                                 <i class="icofont-arrow-right"></i>
                             </a>
                         </div>
@@ -95,10 +95,10 @@
                                 <i class="flaticon-recruitment"></i>
                             </div>
                             <div class="jobseeker-inner">
-                                <span>Employer</span>
+                                <span>Employer Events</span>
                                 <h3>SignUp as a Employer</h3>
                             </div>
-                            <a href="employer-signup.php">Get Started
+                            <a href="employer-events.php">Get Started
                                 <i class="icofont-arrow-right"></i>
                             </a>
                         </div>
@@ -139,7 +139,7 @@
     </div>
 
 
-    <div class="create-account-area pt-100 pb-100">
+    <!-- <div class="create-account-area pt-100 pb-100">
         <div class="container">
             <div class="create-photo">
                 <div class="already-create">
@@ -352,9 +352,9 @@
             </div>
             <div class="text-left">
                 <button type="submit" class="btn create-ac-btn">Save</button>
-            </div>
+            </div> 
         </div>
-    </div>
+    </div>-->
 
 
     <?php include "footer.php" ?>

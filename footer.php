@@ -184,9 +184,9 @@
                   <script>
                     document.write(new Date().getFullYear());
                   </script>
-                  Gable. Designed By
-                  <a href="https://hibootstrap.com/" target="_blank"
-                    >HiBootstrap</a
+                  Topeople.com Designed By
+                  <a href="#" target="_blank"
+                    >Dollarsoft</a
                   >
                 </p>
               </div>

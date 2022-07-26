@@ -54,7 +54,7 @@
             <div class="d-table-cell">
                 <div class="container">
                     <div class="page-title-text">
-                        <h2>Create Account</h2>
+                        <h2>Employer Events</h2>
                         <ul>
                             <li>
                                 <a href="index.php">Home</a>
@@ -62,7 +62,7 @@
                             <li>
                                 <i class="icofont-simple-right"></i>
                             </li>
-                            <li>Create Account</li>
+                            <li>Employer Events</li>
                         </ul>
                     </div>
                 </div>
@@ -70,78 +70,11 @@
         </div>
     </div>
 
-    <div class="login-area pt-100">
-        <div class="container">
-            <h2>Login Your Account</h2>
-            <div class="login-wrap">
-                <div class="row">
-                    <div class="col-sm-6 col-lg-6">
-                        <div class="jobseeker-item">
-                            <div class="jobseeker-icon">
-                                <i class="flaticon-job-search"></i>
-                            </div>
-                            <div class="jobseeker-inner">
-                                <span>Candidate</span>
-                                <h3>SignUp as a Candidate</h3>
-                            </div>
-                            <a href="candidate-signup.php">Get Started
-                                <i class="icofont-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-6">
-                        <div class="jobseeker-item">
-                            <div class="jobseeker-icon">
-                                <i class="flaticon-recruitment"></i>
-                            </div>
-                            <div class="jobseeker-inner">
-                                <span>Employer</span>
-                                <h3>SignUp as a Employer</h3>
-                            </div>
-                            <a href="employer-signup.php">Get Started
-                                <i class="icofont-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- <form>
-                <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Username, Phone Number or Email">
-                </div>
-                <div class="form-group">
-                    <input type="password" class="form-control" placeholder="Password">
-                </div>
-            </form>
-            <div class="login-sign-in">
-                <a href="#">Forgot Password?</a>
-                <ul>
-                    <li>Don’t Have Account ?</li>
-                    <li>
-                        <a href="create-account.php">Sign Up Here</a>
-                    </li>
-                </ul>
-                <div class="text-center">
-                    <button type="submit" class="btn login-btn">Sign In</button>
-                </div>
-            </div>
-            <div class="login-social">
-                <a href="https://www.facebook.com/" target="_blank">
-                    <i class="icofont-facebook"></i>
-                    Login With Facebook
-                </a>
-                <a class="login-google" href="https://mail.google.com/" target="_blank">
-                    <i class="icofont-google-plus"></i>
-                    Login With Google
-                </a>
-            </div> -->
-        </div>
-    </div>
-
+    
 
     <div class="create-account-area pt-100 pb-100">
         <div class="container">
-            <div class="create-photo">
+            <!-- <div class="create-photo">
                 <div class="already-create">
                     <span>Already create an account?</span>
                     <a href="#">Sign In</a>
@@ -179,14 +112,14 @@
                         </div>
                     </div>
                 </form>
-            </div>
+            </div> -->
             <div class="create-information">
                 <form>
                     <h3>Basic Information</h3>
-                    <div class="create-information-btn">
+                    <!-- <div class="create-information-btn">
                         <a href="#">Upload Cover Photo</a>
                         <a href="#">Upload Your CV</a>
-                    </div>
+                    </div> -->
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="form-group">
@@ -196,19 +129,19 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <label>Your Email</label>
+                                <label>Business Email</label>
                                 <input type="email" class="form-control">
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <label>Date of Birth</label>
-                                <input type="date" class="form-control">
+                                <label>Company name</label>
+                                <input type="text" class="form-control">
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <label>Your Phone</label>
+                                <label>Company Size</label>
                                 <input type="text" class="form-control">
                             </div>
                         </div>
@@ -220,11 +153,30 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <label>Address:</label>
+                                <label>Job Function</label>
                                 <input type="text" class="form-control">
                             </div>
                         </div>
-                        <div class="col-lg-12">
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>City</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Country</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Region</label>
+                                <input type="text" class="form-control">
+                            </div>
+                        </div>
+                        
+                        <!-- <div class="col-lg-12">
                             <div class="form-group">
                                 <div class="gender-area">
                                     <span>Gender</span>
@@ -240,11 +192,11 @@
                                 <label>Description</label>
                                 <textarea id="your_message" class="form-control" rows="8"></textarea>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </form>
             </div>
-            <div class="create-education">
+            <!-- <div class="create-education">
                 <div class="create-education-wrap">
                     <div class="create-education-left">
                         <h3>Education</h3>
@@ -349,9 +301,9 @@
                         </div>
                     </div>
                 </form>
-            </div>
+            </div> -->
             <div class="text-left">
-                <button type="submit" class="btn create-ac-btn">Save</button>
+                <button type="submit" class="btn create-ac-btn">Sign Up</button>
             </div>
         </div>
     </div>

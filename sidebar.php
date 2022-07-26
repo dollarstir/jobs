@@ -14,7 +14,7 @@
         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a href="#" class="nav-link">Home</a>
+              <a href="index.php" class="nav-link">Home</a>
             </li>
 
             <li class="nav-item">
@@ -28,19 +28,19 @@
               <a href="#" class="nav-link dropdown-toggle">Resources <i class="icofont-simple-down"></i></a>
               <ul class="dropdown-menu">
                 <li class="nav-item">
-                  <a href="job-list.php" class="nav-link">Blog</a>
+                  <a href="blog.php" class="nav-link">Blog</a>
                 </li>
                 <li class="nav-item">
-                  <a href="favourite-job.php" class="nav-link">Events</a>
+                  <a href="events.php" class="nav-link">Events</a>
                 </li>
                 <li class="nav-item">
-                  <a href="job-details.php" class="nav-link">Courses</a>
+                  <a href="courses.php" class="nav-link">Courses</a>
                 </li>
                 <li class="nav-item">
-                  <a href="post-a-job.php" class="nav-link">Skills Assesment</a>
+                  <a href="skills.php" class="nav-link">Skills Assesment</a>
                 </li>
                 <li class="nav-item">
-                  <a href="post-a-job.php" class="nav-link">CV Review</a>
+                  <a href="cv-review.php" class="nav-link">CV Review</a>
                 </li>
               </ul>
             </li>
@@ -122,7 +122,7 @@
               <i class="icofont-plus-square"></i>
               Login
             </a>
-            <a class="sign-up-btn" href="create-account.php">
+            <a class="sign-up-btn" href="signup.php">
               <i class="icofont-user-alt-4"></i>
               Sign Up
             </a>

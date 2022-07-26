@@ -125,18 +125,18 @@ jQuery(
   })(jQuery)
 );
 function setTheme(themeName) {
-  localStorage.setItem("gable_theme", themeName);
+  localStorage.setItem("Topeople_theme", themeName);
   document.documentElement.className = themeName;
 }
 function toggleTheme() {
-  if (localStorage.getItem("gable_theme") === "theme-dark") {
+  if (localStorage.getItem("Topeople_theme") === "theme-dark") {
     setTheme("theme-light");
   } else {
     setTheme("theme-dark");
   }
 }
 (function () {
-  if (localStorage.getItem("gable_theme") === "theme-dark") {
+  if (localStorage.getItem("Topeople_theme") === "theme-dark") {
     setTheme("theme-dark");
     document.getElementById("slider").checked = false;
   } else {

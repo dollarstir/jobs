@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css" />
 
     <link rel="stylesheet" href="assets/css/theme-dark.css" />
-    <title>Gable - Job Portal HTML Template</title>
+    <title>Topeople - Job Portal</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png" />
   </head>
   <body>

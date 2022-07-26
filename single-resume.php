@@ -24,7 +24,7 @@
 <link rel="stylesheet" href="assets/css/responsive.css">
 
 <link rel="stylesheet" href="assets/css/theme-dark.css">
-<title>Gable - Job Portal HTML Template</title>
+<title>Topeople - Job Portal</title>
 <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 <body>
@@ -214,7 +214,7 @@ Sign Up
 <div class="single-resume-profile">
 <div class="row align-items-center">
 <div class="col-lg-5">
- <img src="https://templates.hibootstrap.com/gable/default/assets/img/single-profile/3.jpg" alt="Resume">
+ <img src="https://templates.hibootstrap.com/Topeople/default/assets/img/single-profile/3.jpg" alt="Resume">
 </div>
 <div class="col-lg-7">
 <h3>Jery Hudson</h3>
@@ -252,7 +252,7 @@ SEO
 </div>
 <div class="single-resume-education">
 <h3>Education</h3>
-<span>Senior Web Designer at Gable International University</span>
+<span>Senior Web Designer at Topeople International University</span>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident veniam omnis reprehenderit excepturi magnam modi.</p>
 </div>
 </div>
@@ -507,7 +507,7 @@ Testimonials
 <div class="row">
 <div class="col-lg-6">
 <div class="copyright-item">
-<p>Copyright © <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Gable. Designed By <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
+<p>Copyright © <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Topeople. Designed By <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
 </div>
 </div>
 <div class="col-lg-6">

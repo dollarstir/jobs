@@ -26,7 +26,7 @@
 <link rel="stylesheet" href="assets/css/responsive.css">
 
 <link rel="stylesheet" href="assets/css/theme-dark.css">
-<title>Gable - Job Portal HTML Template</title>
+<title>Topeople - Job Portal</title>
 <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 <body>
@@ -265,7 +265,7 @@ Washington, New York
 </div>
 <div class="col-sm-6 col-lg-3">
 <div class="companies-item wow fadeInUp" data-wow-delay=".3s">
-<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/companies/5.png" alt="Companies">
+<img src="https://templates.hibootstrap.com/Topeople/default/assets/img/home-1/companies/5.png" alt="Companies">
 <h3>
 <a href="company-details.php">Bethpage.com</a>
 </h3>
@@ -278,7 +278,7 @@ Las, Street, Canada
 </div>
 <div class="col-sm-6 col-lg-3">
 <div class="companies-item wow fadeInUp" data-wow-delay=".4s">
-<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/companies/6.png" alt="Companies">
+<img src="https://templates.hibootstrap.com/Topeople/default/assets/img/home-1/companies/6.png" alt="Companies">
 <h3>
 <a href="company-details.php">Hofstra.com</a>
 </h3>
@@ -291,7 +291,7 @@ South Street, London
 </div>
 <div class="col-sm-6 col-lg-3">
  <div class="companies-item wow fadeInUp" data-wow-delay=".5s">
-<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/companies/7.png" alt="Companies">
+<img src="https://templates.hibootstrap.com/Topeople/default/assets/img/home-1/companies/7.png" alt="Companies">
 <h3>
 <a href="company-details.php">Mount.com</a>
 </h3>
@@ -304,7 +304,7 @@ West Road, Cardiff
 </div>
 <div class="col-sm-6 col-lg-3">
 <div class="companies-item wow fadeInUp" data-wow-delay=".6s">
-<img src="https://templates.hibootstrap.com/gable/default/assets/img/home-1/companies/8.png" alt="Companies">
+<img src="https://templates.hibootstrap.com/Topeople/default/assets/img/home-1/companies/8.png" alt="Companies">
 <h3>
 <a href="company-details.php">Protiviti.com</a>
 </h3>
@@ -486,7 +486,7 @@ Testimonials
 <div class="row">
 <div class="col-lg-6">
 <div class="copyright-item">
-<p>Copyright © <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Gable. Designed By <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
+<p>Copyright © <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Topeople. Designed By <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
 </div>
 </div>
 <div class="col-lg-6">
