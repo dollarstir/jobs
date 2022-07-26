@@ -411,6 +411,120 @@
                     </div>
                 </div>
             </section>
+
+            <section class="companies-area ptb-100">
+                <div class="container">
+                    <div class="section-title">
+                        <h2>CV Service Packages</h2>
+                    </div>
+                    <div class="companies-slider owl-theme owl-carousel">
+                        <div class="companies-item">
+                            <img src="assets/img/home-1/companies/1.png" alt="Companies" />
+                            <h3>
+                                <a href="company-details.php">CV - Review</a>
+                            </h3>
+                            <h2>
+                                <!-- <i class="icofont-check"></i> -->
+                                Gh¢ 10.00
+                            </h2>
+                            <p>
+                                <!-- <i class="icofont-check"></i> -->
+                                What's included
+                            </p>
+                            <p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                Get a proffesional review of your CV
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                Get professional recommendatioins withiin a week
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                Receive top class advice
+                            </p>
+                            <a class="companies-btn" href="create-account.php">Pick Package</a>
+                        </div>
+                        <div class="companies-item">
+                            <img src="assets/img/home-1/companies/2.png" alt="Companies" />
+                            <h3>
+                                <a href="company-details.php">Career Growth</a>
+                            </h3>
+                            <h2>
+                                <!-- <i class="icofont-check"></i> -->
+                                Gh¢ 30.00
+                            </h2>
+                            <p>
+                                <!-- <i class="icofont-check"></i> -->
+                                What's included
+                            </p>
+
+
+                            <p>
+                                <i class="icofont-check"></i>
+                                Professionally written - By experts that know your industry.
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                Formatted for success - Formatting that will get an employer's attention
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                Keyword optimised - Your CV will be optimised to pass through Applicant Tracking systems
+                            </p>
+                            <a class="companies-btn" href="create-account.php">Pick Package</a>
+                        </div>
+
+                        <div class="companies-item">
+                            <img src="assets/img/home-1/companies/3.png" alt="Companies" />
+                            <h3>
+                                <a href="company-details.php">Distinction</a>
+                            </h3>
+                            <h2>
+                                <!-- <i class="icofont-check"></i> -->
+                                Gh¢ 50
+                            </h2>
+                            <p>
+                                <!-- <i class="icofont-check"></i> -->
+                                What's included
+                            </p>
+                            <p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                Executive writer - Top 10% of our network.
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                Formatted for success - Formatting that will get an employer's attention.
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                Keyword optimised - Your CV will be optimised to pass through Applicant Tracking Systems.
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                Cover letter - Employers are 40% more likely to read a CV with a cover letter.
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                60-day interview guarantee.
+
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                LinkedIn Makeover - 97% of employers use LinkedIn; we'll rewrite your profile.
+                            </p>
+                            <p>
+                                <i class="icofont-check"></i>
+                                CV, cover letter, and LinkedIn profile / two CV revisions,
+                                created by a premium writer.
+                            </p>
+                            <a class="companies-btn" href="create-account.php">Pick Package</a>
+                        </div>
+
+                    </div>
+            </section>
             <!-- <form>
                 <div class="form-group">
                     <input type="text" class="form-control" placeholder="Username, Phone Number or Email">

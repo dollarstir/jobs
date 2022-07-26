@@ -42,16 +42,28 @@
                 <li class="nav-item">
                   <a href="cv-review.php" class="nav-link">CV Review</a>
                 </li>
+                <li class="nav-item">
+                  <a href="job-by-us.php" class="nav-link">job by Us</a>
+                </li>
               </ul>
             </li>
             <li class="nav-item">
               <a href="#" class="nav-link dropdown-toggle">About <i class="icofont-simple-down"></i></a>
               <ul class="dropdown-menu">
                 <li class="nav-item">
-                  <a href="candidate-list.php" class="nav-link">About Us</a>
+                  <a href="aboutus.php" class="nav-link">About Us</a>
                 </li>
                 <li class="nav-item">
-                  <a href="candidate-details.php" class="nav-link">FAQs</a>
+                  <a href="careers.php" class="nav-link">Careers</a>
+                </li>
+                <li class="nav-item">
+                  <a href="candidates-dashboard.php" class="nav-link">Candidates Dashboard</a>
+                </li>
+                <li class="nav-item">
+                  <a href="browse-by-category.php" class="nav-link">Browse by category</a>
+                </li>
+                <li class="nav-item">
+                  <a href="faq.php" class="nav-link">FAQs</a>
                 </li>
                 <li class="nav-item">
                   <a href="single-resume.php" class="nav-link">Terms and Services</a>

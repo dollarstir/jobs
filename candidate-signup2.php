@@ -150,6 +150,7 @@
                                 <input type="text" class="form-control">
                             </div>
                         </div>
+
                         <div class="col-lg-6">
                             <div class="form-group">
                                 <label>Region</label>
@@ -193,16 +194,37 @@
                 </div>
                 <form>
                     <div class="row">
+
                         <div class="col-lg-6">
                             <div class="form-group">
                                 <label>School or College/University</label>
-                                <input type="text" class="form-control">
+                                <select class="form-select form-control" aria-label="Default select example">
+                                    <option value="University of cape coast">University of cape coast</option>
+                                    <option value="University of Ghana">University of Ghana</option>
+
+                                    <!-- <option>Finance</option>
+                                    <option>Marketing</option>
+                                    <option>Production</option>
+                                    <option>Bank</option>
+                                    <option>Hospitality</option>
+                                    <option>NGO</option> -->
+                                </select>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="form-group">
                                 <label>Degree</label>
-                                <input type="text" class="form-control">
+                                <select class="form-select form-control" aria-label="Default select example">
+                                    <option value="Undergraduate">Undergraduate</option>
+                                    <option value="Postgraduate">Postgraduate</option>
+                                    <!-- <option>ICT</option>
+                                    <option>Finance</option>
+                                    <option>Marketing</option>
+                                    <option>Production</option>
+                                    <option>Bank</option>
+                                    <option>Hospitality</option>
+                                    <option>NGO</option> -->
+                                </select>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -251,9 +273,16 @@
                     <!-- <div class="create-skills-left">
                         <h6>We can help you prepare for your search. Your response is private to you</h6>
                     </div> -->
-                    <div class="create-skills-right">
-                        <a href="#">Yes</a>
-                        <a href="#">Not Now</a>
+                    <div class="col-lg-12">
+                        <div class="form-group">
+                            <div class="gender-area">
+                                <!-- <span>Gender</span> -->
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="yes">Yes</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="no">No</label>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!-- <form>
@@ -349,9 +378,16 @@
                     <!-- <div class="create-skills-left">
                         <h6>We can help you prepare for your search. Your response is private to you</h6>
                     </div> -->
-                    <div class="create-skills-right">
-                        <a href="#">Yes</a>
-                        <a href="#">No</a>
+                    <div class="col-lg-12">
+                        <div class="form-group">
+                            <div class="gender-area">
+                                <!-- <span>Gender</span> -->
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="yes">Yes</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="no">No</label>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!-- <form>
@@ -794,12 +830,21 @@
                     </div> -->
                         </div>
 
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="form-group">
-                                    <!-- <label>Club Name</label> -->
-                                    <input type="text" class="form-control" placeholder="Enter range">
-                                </div>
+
+
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <!-- <label>School or College/University</label> -->
+                                <select class="form-select form-control" aria-label="Default select example">
+                                    <option value="200 - 500">200 - 500</option>
+                                    <option value="500 - 1000">500 - 1000</option>
+                                    <!-- <option>Finance</option>
+                                    <option>Marketing</option>
+                                    <option>Production</option>
+                                    <option>Bank</option>
+                                    <option>Hospitality</option>
+                                    <option>NGO</option> -->
+                                </select>
                             </div>
                         </div>
 
@@ -940,6 +985,111 @@
             <div class="create-skills">
                 <div class="create-skills-wrap">
                     <div class="create-skills-left">
+                        <h3>How much do you agree or disagree with the following statements?</h3> <br>
+                        <!-- <h6>We can help you prepare for your search. Your response is private to you</h6> -->
+                    </div>
+                    <!-- <div class="create-skills-left">
+                        <h6>We can help you prepare for your search. Your response is private to you</h6>
+                    </div> -->
+                    <div class="col-lg-12">
+                        <div class="form-group">
+                            <div class="gender-area">
+                                <h4>I am more extroverted than introverted</h4>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly disagree">Strongly disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <!-- <div style="width: 90px; display: inline;"></div> -->
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Disagree">Disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Neutral">Neutral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Agree">Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly Agree">Strongly Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                        <div class="form-group">
+                            <div class="gender-area">
+                                <h4>I want to work in a client-facing role</h4>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly disagree">Strongly disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <!-- <div style="width: 90px; display: inline;"></div> -->
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Disagree">Disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Neutral">Neutral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Agree">Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly Agree">Strongly Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+
+                            </div>
+                        </div>
+                    </div><div class="col-lg-12">
+                        <div class="form-group">
+                            <div class="gender-area">
+                                <h4>I prefer working on a team to working individually</h4>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly disagree">Strongly disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <!-- <div style="width: 90px; display: inline;"></div> -->
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Disagree">Disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Neutral">Neutral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Agree">Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly Agree">Strongly Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+
+                            </div>
+                        </div>
+                    </div><div class="col-lg-12">
+                        <div class="form-group">
+                            <div class="gender-area">
+                                <h4>I am very competitive</h4>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly disagree">Strongly disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <!-- <div style="width: 90px; display: inline;"></div> -->
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Disagree">Disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Neutral">Neutral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Agree">Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly Agree">Strongly Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+
+                            </div>
+                        </div>
+                    </div><div class="col-lg-12">
+                        <div class="form-group">
+                            <div class="gender-area">
+                                <h4>I am more creativev than analytical</h4>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly disagree">Strongly disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <!-- <div style="width: 90px; display: inline;"></div> -->
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Disagree">Disagree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Neutral">Neutral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized">
+                                <label for="Agree">Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                <input type="radio" name="authorized" id="authorized" value="authorized" checked>
+                                <label for="Strongly Agree">Strongly Agree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+
+                            </div>
+                        </div>
+                    </div>
+
+            </div>
+
+            <div class="create-skills">
+                <div class="create-skills-wrap">
+                    <div class="create-skills-left">
                         <h3>Social Links</h3>
                     </div>
                     <!-- <div class="create-skills-right">
@@ -947,29 +1097,29 @@
                         <a href="#">Add New</a>
                     </div> -->
                 </div>
-                
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <label>Personal URL</label>
-                                <input type="text" class="form-control" placeholder="Personal URL">
-                            </div>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>Personal URL</label>
+                            <input type="text" class="form-control" placeholder="Personal URL">
                         </div>
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <label>LinkedIn URL</label>
-                                <input type="text" class="form-control" placeholder="LinkedIn URL">
-                            </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>LinkedIn URL</label>
+                            <input type="text" class="form-control" placeholder="LinkedIn URL">
                         </div>
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <label>Github URL</label>
-                                <input type="text" class="form-control" placeholder="Github URL">
-                            </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>Github URL</label>
+                            <input type="text" class="form-control" placeholder="Github URL">
                         </div>
+                    </div>
 
 
-                        <!-- <div class="col-lg-6">
+                    <!-- <div class="col-lg-6">
                             <div class="form-group">
                                 <label>Linedin</label>
                                 <input type="text" class="form-control">
@@ -981,8 +1131,8 @@
                                 <input type="text" class="form-control">
                             </div>
                         </div> -->
-                    </div>
-                
+                </div>
+
 
 
 
@@ -998,40 +1148,41 @@
                         <a href="#">Add New</a>
                     </div> -->
                 </div>
-                
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <label>Headliner</label>
-                                <input type="text" class="form-control" placeholder="Headliner">
-                            </div>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>Headliner</label>
+                            <input type="text" class="form-control" placeholder="Headliner">
                         </div>
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <label>Work Experience</label>
-                                <input type="text" class="form-control" placeholder="Work Experience">
-                            </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>Work Experience</label>
+                            <input type="text" class="form-control" placeholder="Work Experience">
                         </div>
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <label>On-Campus involvement</label>
-                                <input type="text" class="form-control" placeholder="On-Campus involvement">
-                            </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>On-Campus involvement</label>
+                            <input type="text" class="form-control" placeholder="On-Campus involvement">
                         </div>
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <label>Achievements</label>
-                                <input type="text" class="form-control" placeholder="Achievements">
-                            </div>
-                        </div><div class="col-lg-6">
-                            <div class="form-group">
-                                <label>Skills</label>
-                                <input type="text" class="form-control" placeholder="Skills">
-                            </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>Achievements</label>
+                            <input type="text" class="form-control" placeholder="Achievements">
                         </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>Skills</label>
+                            <input type="text" class="form-control" placeholder="Skills">
+                        </div>
+                    </div>
 
 
-                        <!-- <div class="col-lg-6">
+                    <!-- <div class="col-lg-6">
                             <div class="form-group">
                                 <label>Linedin</label>
                                 <input type="text" class="form-control">
@@ -1043,8 +1194,8 @@
                                 <input type="text" class="form-control">
                             </div>
                         </div> -->
-                    </div>
-                
+                </div>
+
 
 
 
