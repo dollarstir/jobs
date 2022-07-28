@@ -325,97 +325,77 @@
                             </div>
                         </div>
 
-                        <section class="companies-area ptb-100">
+
+
+                        <div class="pricing-area pt-100">
                             <div class="container">
-                                <div class="section-title">
-                                    <h2>Packages</h2>
+                                <div class="row">
+                                    <div class="col-sm-6 col-lg-4">
+                                        <div class="pricing-item wow fadeInUp" data-wow-delay=".3s">
+                                            <span>Basic</span>
+                                            <h2>Free</h2>
+                                            <p>What's included</p>
+                                            <ul>
+
+                                                <li>
+
+
+                                                    <i class="icofont-check"></i>
+                                                    Reach out to thousands of prospective applicants
+
+                                                </li>
+                                                <li>
+
+                                                    <i class="icofont-check"></i>
+                                                    Post up to 2 vacancies per month for free
+
+                                                </li>
+
+                                            </ul>
+                                            <a class="pricing-btn" href="submit-resume.php">Get Started</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-lg-4">
+                                        <div class="pricing-item pricing-two wow fadeInUp" data-wow-delay=".4s">
+                                            <span>Standard - Best Value</span>
+                                            <h2>Gh¢ 50 Per Job Post</h2>
+                                            <p>What's included</p>
+
+                                            <ul>
+                                                <li><i class="icofont-check"></i>
+                                                    Reach out to targeted prospective applicants</li>
+                                                <li><i class="icofont-check"></i>
+                                                    Advanced automatic filters of applicants</li>
+                                                <li><i class="icofont-check"></i>
+                                                    Fast and accurate shortlisting of applicants</li>
+
+                                            </ul>
+                                            <a class="pricing-btn" href="submit-resume.php">Get Started</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 offset-sm-3 offset-lg-0 col-lg-4">
+                                        <div class="pricing-item wow fadeInUp" data-wow-delay=".5s">
+                                            <span>Professional - Great Value</span>
+                                            <h2>Gh¢ 150 Per Month</h2>
+                                            <p>What's included</p>
+                                            <ul>
+                                                <li><i class="icofont-check"></i>
+                                                    Standard Package/li>
+                                                <li><i class="icofont-check"></i>
+                                                    Ranking of top 10 applicants</li>
+                                                <li> <i class="icofont-check"></i>
+                                                    Unlimited job posts per month</li>
+                                                <li><i class="icofont-check"></i>
+                                                    Promotion of company products/services</li>
+                                            </ul>
+                                            <a class="pricing-btn" href="submit-resume.php">Get Started</a>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="companies-slider owl-theme owl-carousel">
-                                    <div class="companies-item">
-                                        <img src="assets/img/home-1/companies/1.png" alt="Companies" />
-                                        <h3>
-                                            <a href="company-details.php">Basic - Free</a>
-                                        </h3>
-                                        <p>
-                                            <!-- <i class="icofont-check"></i> -->
-                                            What's included
-                                        </p>
-                                        <p>
-                                        <p>
-                                            <i class="icofont-check"></i>
-                                            Reach out to thousands of prospective applicants
-                                        </p>
-                                        <p>
-                                            <i class="icofont-check"></i>
-                                            Post up to 2 vacancies per month for free
-                                        </p>
-                                        <a class="companies-btn" href="create-account.php">Pick Package</a>
-                                    </div>
-                                    <div class="companies-item">
-                                        <img src="assets/img/home-1/companies/2.png" alt="Companies" />
-                                        <h3>
-                                            <a href="company-details.php">Standard - Best Value</a>
-                                        </h3>
-                                        <h2>
-                                            <!-- <i class="icofont-check"></i> -->
-                                            Gh¢ 50 Per Job Post
-                                        </h2>
-                                        <p>
-                                            <!-- <i class="icofont-check"></i> -->
-                                            What's included
-                                        </p>
+                            </div>
+                        </div>
 
-
-                                        <p>
-                                            <i class="icofont-check"></i>
-                                            Reach out to targeted prospective applicants
-                                        </p>
-                                        <p>
-                                            <i class="icofont-check"></i>
-                                            Advanced automatic filters of applicants
-                                        </p>
-                                        <p>
-                                            <i class="icofont-check"></i>
-                                            Fast and accurate shortlisting of applicants
-                                        </p>
-                                        <a class="companies-btn" href="create-account.php">Pick Package</a>
-                                    </div>
-
-                                    <div class="companies-item">
-                                        <img src="assets/img/home-1/companies/3.png" alt="Companies" />
-                                        <h3>
-                                            <a href="company-details.php">Professional - Great Value</a>
-                                        </h3>
-                                        <h2>
-                                            <!-- <i class="icofont-check"></i> -->
-                                            Gh¢ 150 Per Month
-                                        </h2>
-                                        <p>
-                                            <!-- <i class="icofont-check"></i> -->
-                                            What's included
-                                        </p>
-                                        <p>
-                                        <p>
-                                            <i class="icofont-check"></i>
-                                        Standard Package
-                                        </p>
-                                        <p>
-                                            <i class="icofont-check"></i>
-                                            Ranking of top 10 applicants
-                                        </p>
-                                        <p>
-                                            <i class="icofont-check"></i>
-                                            Unlimited job posts per month
-                                        </p>
-                                        <p>
-                                            <i class="icofont-check"></i>
-                                            Promotion of company products/services
-                                        </p>
-                                        <a class="companies-btn" href="create-account.php">Pick Package</a>
-                                    </div>
-
-                                </div>
-                        </section>
+                        
 
 
 

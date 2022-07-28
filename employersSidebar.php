@@ -14,7 +14,7 @@
         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a href="#" class="nav-link">Post a Job</a>
+              <a href="post-a-job.php" class="nav-link">Post a Job</a>
             </li>
 
             <!-- <li class="nav-item">
@@ -31,10 +31,10 @@
                   <a href="candidates.php" class="nav-link">Candidates</a>
                 </li>
                 <li class="nav-item">
-                  <a href="favourite-job.php" class="nav-link">Top Candidates</a>
+                  <a href="candidates.php" class="nav-link">Top Candidates</a>
                 </li>
                 <li class="nav-item">
-                  <a href="job-details.php" class="nav-link">Other Recruiters</a>
+                  <a href="employers.php" class="nav-link">Other Recruiters</a>
                 </li>
                 <!-- <li class="nav-item">
                   <a href="post-a-job.php" class="nav-link">Skills Assesment</a>
@@ -45,16 +45,16 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a href="about.php" class="nav-link">Candidate</a>
+              <a href="candidates.php" class="nav-link">Candidate</a>
             </li>
             <li class="nav-item">
               <a href="#" class="nav-link dropdown-toggle">Resources <i class="icofont-simple-down"></i></a>
               <ul class="dropdown-menu">
                 <li class="nav-item">
-                  <a href="candidate-list.php" class="nav-link">Blog</a>
+                  <a href="blog.php" class="nav-link">Blog</a>
                 </li>
                 <li class="nav-item">
-                  <a href="candidate-details.php" class="nav-link">Events</a>
+                  <a href="events.php" class="nav-link">Events</a>
                 </li>
                 <!-- <li class="nav-item">
                   <a href="single-resume.php" class="nav-link">Terms and Services</a>
@@ -117,7 +117,7 @@
               </ul>
             </li> -->
             <li class="nav-item">
-              <a href="contact.php" class="nav-link">Products</a>
+              <a href="#" class="nav-link">Products</a>
             </li>
           </ul>
           <div class="common-btn">
@@ -125,7 +125,7 @@
               <i class="icofont-plus-square"></i>
               Login
             </a>
-            <a class="sign-up-btn" href="create-account.php">
+            <a class="sign-up-btn" href="signup.php">
               <i class="icofont-user-alt-4"></i>
               Sign Up
             </a>

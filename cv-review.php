@@ -412,118 +412,111 @@
                 </div>
             </section>
 
+
+
+
             <section class="companies-area ptb-100">
                 <div class="container">
                     <div class="section-title">
                         <h2>CV Service Packages</h2>
                     </div>
-                    <div class="companies-slider owl-theme owl-carousel">
-                        <div class="companies-item">
-                            <img src="assets/img/home-1/companies/1.png" alt="Companies" />
-                            <h3>
-                                <a href="company-details.php">CV - Review</a>
-                            </h3>
-                            <h2>
-                                <!-- <i class="icofont-check"></i> -->
-                                Gh¢ 10.00
-                            </h2>
-                            <p>
-                                <!-- <i class="icofont-check"></i> -->
-                                What's included
-                            </p>
-                            <p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                Get a proffesional review of your CV
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                Get professional recommendatioins withiin a week
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                Receive top class advice
-                            </p>
-                            <a class="companies-btn" href="create-account.php">Pick Package</a>
+                    <div class="pricing-area pt-100">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-6 col-lg-4">
+                                    <div class="pricing-item wow fadeInUp" data-wow-delay=".3s">
+                                        <span>CV - Review</span>
+                                        <h2>Gh¢ 10.00</h2>
+                                        <p>What's included</p>
+
+
+                                        <ul>
+
+                                            <li>
+
+
+                                                <i class="icofont-check"></i>
+                                                Get a professional review of your CV
+
+                                            </li>
+                                            <li>
+
+
+                                                <i class="icofont-check"></i>
+                                                Get professional recommendatioins withiin a week
+
+                                            </li>
+
+                                            <li>
+
+
+                                                <i class="icofont-check"></i>
+                                                Receive top class advice
+
+                                            </li>
+
+                                        </ul>
+                                        <a class="pricing-btn" href="submit-resume.php">Get Started</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-4">
+                                    <div class="pricing-item pricing-two wow fadeInUp" data-wow-delay=".4s">
+                                        <span>Career Growth</span>
+                                        <h2>Gh¢ 30.00</h2>
+                                        <p>What's included</p>
+
+
+                                        <ul>
+                                            <li>
+                                                <i class="icofont-check"></i>
+                                                Professionally written - By experts that know your industry.
+                                            </li>
+                                            <li><i class="icofont-check"></i>
+                                                Formatted for success - Formatting that will get an employer's attention</li>
+                                            <li><i class="icofont-check"></i>
+                                                Keyword optimised - Your CV will be optimised to pass through Applicant Tracking systems</li>
+
+                                        </ul>
+                                        <a class="pricing-btn" href="submit-resume.php">Get Started</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 offset-sm-3 offset-lg-0 col-lg-4">
+                                    <div class="pricing-item wow fadeInUp" data-wow-delay=".5s">
+                                        <span>Distinction</span>
+                                        <h2>Gh¢ 50</h2>
+                                        <p>What's included</p>
+
+                                        <ul>
+                                            <li><i class="icofont-check"></i>
+                                                Executive writer - Top 10% of our network.</li>
+                                            <li><i class="icofont-check"></i>
+                                                Formatted for success - Formatting that will get an employer's attention.
+                                            </li>
+                                            <li> <i class="icofont-check"></i>
+                                                Keyword optimised - Your CV will be optimised to pass through Applicant Tracking Systems.
+                                            </li>
+                                            <li><i class="icofont-check"></i>
+                                                Cover letter - Employers are 40% more likely to read a CV with a cover letter.
+                                            </li>
+                                            <li><i class="icofont-check"></i>
+                                                60-day interview guarantee.
+                                            </li>
+                                            <li><i class="icofont-check"></i>
+                                                LinkedIn Makeover - 97% of employers use LinkedIn; we'll rewrite your profile.
+                                            </li>
+                                            <li><i class="icofont-check"></i>
+                                                CV, cover letter, and LinkedIn profile / two CV revisions,
+                                                created by a premium writer.</li>
+                                        </ul>
+                                        <a class="pricing-btn" href="submit-resume.php">Get Started</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="companies-item">
-                            <img src="assets/img/home-1/companies/2.png" alt="Companies" />
-                            <h3>
-                                <a href="company-details.php">Career Growth</a>
-                            </h3>
-                            <h2>
-                                <!-- <i class="icofont-check"></i> -->
-                                Gh¢ 30.00
-                            </h2>
-                            <p>
-                                <!-- <i class="icofont-check"></i> -->
-                                What's included
-                            </p>
-
-
-                            <p>
-                                <i class="icofont-check"></i>
-                                Professionally written - By experts that know your industry.
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                Formatted for success - Formatting that will get an employer's attention
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                Keyword optimised - Your CV will be optimised to pass through Applicant Tracking systems
-                            </p>
-                            <a class="companies-btn" href="create-account.php">Pick Package</a>
-                        </div>
-
-                        <div class="companies-item">
-                            <img src="assets/img/home-1/companies/3.png" alt="Companies" />
-                            <h3>
-                                <a href="company-details.php">Distinction</a>
-                            </h3>
-                            <h2>
-                                <!-- <i class="icofont-check"></i> -->
-                                Gh¢ 50
-                            </h2>
-                            <p>
-                                <!-- <i class="icofont-check"></i> -->
-                                What's included
-                            </p>
-                            <p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                Executive writer - Top 10% of our network.
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                Formatted for success - Formatting that will get an employer's attention.
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                Keyword optimised - Your CV will be optimised to pass through Applicant Tracking Systems.
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                Cover letter - Employers are 40% more likely to read a CV with a cover letter.
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                60-day interview guarantee.
-
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                LinkedIn Makeover - 97% of employers use LinkedIn; we'll rewrite your profile.
-                            </p>
-                            <p>
-                                <i class="icofont-check"></i>
-                                CV, cover letter, and LinkedIn profile / two CV revisions,
-                                created by a premium writer.
-                            </p>
-                            <a class="companies-btn" href="create-account.php">Pick Package</a>
-                        </div>
-
                     </div>
+
+
+                </div>
             </section>
             <!-- <form>
                 <div class="form-group">
